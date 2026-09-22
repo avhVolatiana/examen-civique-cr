@@ -1,3 +1,5 @@
+let trainingAutoAdvanceTimer = null;
+let questionRenderToken = 0;
 let bank = null;
 const SESSION_KEY = 'cr-active-session-v2';
 const PROGRESS_KEY = 'cr-progress-v2';
@@ -177,7 +179,9 @@ function answer(i){
 }
 
 function goNext(){
-  if (!state.answered) return;
+  
+  if (trainingAutoAdvanceTimer) { clearTimeout(trainingAutoAdvanceTimer); trainingAutoAdvanceTimer = null; }
+if (!state.answered) return;
   registerActivity();
   if (state.i === state.qs.length-1) return finish();
   state.i++;
