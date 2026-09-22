@@ -55,6 +55,10 @@ async function init(){
 }
 
 function home(){
+  if (trainingAutoAdvanceTimer) {
+    clearTimeout(trainingAutoAdvanceTimer);
+    trainingAutoAdvanceTimer = null;
+  }
   clearActiveSession();
   state = { mode:null, qs:[], i:0, score:0, answered:false, deadline:0, order:[], selected:null, lastActivity:0, startedAt:0 };
   info.textContent = '';
@@ -174,7 +178,24 @@ function answer(i){
 
   // Une erreur ne déclenche plus de passage automatique : l'utilisateur décide quand continuer.
   if (correct && state.mode === 'training') {
-    setTimeout(() => { if (state.answered) goNext(); }, TRAINING_CORRECT_DELAY);
+    if (trainingAutoAdvanceTimer) {
+      clearTimeout(trainingAutoAdvanceTimer);
+    }
+    const questionIndex = state.i;
+    const questionId = q.id;
+    const selectedIndex = i;
+    trainingAutoAdvanceTimer = setTimeout(() => {
+      trainingAutoAdvanceTimer = null;
+      if (
+        state.mode === 'training' &&
+        state.answered &&
+        state.i === questionIndex &&
+        state.qs[state.i]?.id === questionId &&
+        state.selected === selectedIndex
+      ) {
+        goNext();
+      }
+    }, TRAINING_CORRECT_DELAY);
   }
 }
 
@@ -187,6 +208,7 @@ if (!state.answered) return;
   state.i++;
   state.order = [];
   state.selected = null;
+  state.answered = false;
   render();
 }
 
