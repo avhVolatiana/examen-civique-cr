@@ -1,0 +1,4496 @@
+{
+  "mention": "CR",
+  "intitule": "Examen civique — mention carte de résident",
+  "source": "Ministère de l'intérieur — formation-civique.interieur.gouv.fr, liste officielle des questions de connaissance CR (annexe I de l'arrêté du 10 octobre 2025)",
+  "licence": "Licence Ouverte / Open Licence 2.0 (Etalab)",
+  "consulte_le": "2026-08-25",
+  "avertissement": "Les ENONCES sont officiels et reproduits tels que publiés. Les PROPOSITIONS DE REPONSE et les EXPLICATIONS ne sont PAS officielles : elles constituent un corrigé pédagogique proposé pour l'application et doivent être relues/validées avant mise en production. Les 12 mises en situation de l'épreuve ne sont pas rendues publiques par le ministère.",
+  "epreuve": {
+    "nb_questions": 40,
+    "connaissance": 28,
+    "situation": 12,
+    "seuil": 32,
+    "duree_min": 45,
+    "banque_connaissance": 209,
+    "corriges_connaissance_complets": 209
+  },
+  "themes": {
+    "P": "Principes et valeurs de la République",
+    "S": "Système institutionnel et politique",
+    "D": "Droits et devoirs",
+    "H": "Histoire, géographie et culture",
+    "V": "Vivre dans la société française"
+  },
+  "questions": [
+    {
+      "id": "P01",
+      "theme": "P",
+      "enonce": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",
+      "reponses": [
+        "Participer à une élection ou à une consultation citoyenne",
+        "Respecter uniquement les décisions des autorités",
+        "Ne jamais exprimer son opinion",
+        "S'abstenir de toute participation collective"
+      ],
+      "bonne": 0,
+      "explication": "Participer à la vie démocratique constitue une forme de participation citoyenne.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P02",
+      "theme": "P",
+      "enonce": "Que garantit la liberté d'expression ?",
+      "reponses": [
+        "Le droit d'exprimer ses opinions, dans les limites fixées par la loi",
+        "Le droit de dire n'importe quoi sans aucune limite selon les règles applicables",
+        "Le droit de ne jamais être contredit dans le cadre concerné",
+        "Le droit d'insulter les responsables politiques dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La liberté d'expression permet de communiquer ses idées et opinions. Elle connaît des limites légales : injure, diffamation, incitation à la haine ou à la violence sont punies.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P03",
+      "theme": "P",
+      "enonce": "À quoi sert un titre de séjour ?",
+      "reponses": [
+        "Il autorise un étranger à séjourner régulièrement en France",
+        "Il donne la nationalité française selon les règles applicables",
+        "Il remplace le passeport dans le cadre concerné",
+        "Il donne le droit de vote dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le titre de séjour atteste du droit de séjourner en France. Il ne confère ni la nationalité ni le droit de vote aux élections nationales.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P04",
+      "theme": "P",
+      "enonce": "La liberté de circulation permet à toute personne de :",
+      "reponses": [
+        "se déplacer librement sur le territoire, dans le respect de la loi",
+        "entrer dans une propriété privée sans autorisation selon les règles applicables",
+        "circuler sans aucun document d'identité à l'étranger dans le cadre concerné",
+        "ignorer les règles de la circulation routière dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Chacun peut aller et venir librement en France. Cette liberté s'exerce dans le respect de la loi et peut être restreinte dans des cas prévus (ordre public, décision de justice).",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P05",
+      "theme": "P",
+      "enonce": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+      "reponses": [
+        "Le site officiel de l'Élysée",
+        "Le site d'une entreprise privée",
+        "Un site touristique",
+        "Un réseau social"
+      ],
+      "bonne": 0,
+      "explication": "Le site officiel de la présidence de la République présente les symboles et institutions de la République.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P06",
+      "theme": "P",
+      "enonce": "Complétez ces paroles de la Marseillaise : \"Aux armes […] ! Formez vos bataillons\"",
+      "reponses": [
+        "Citoyens",
+        "Soldats",
+        "Enfants",
+        "Français"
+      ],
+      "bonne": 0,
+      "explication": "La formulation complète de la Marseillaise est : « Aux armes, citoyens ! Formez vos bataillons ».",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P07",
+      "theme": "P",
+      "enonce": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie […]\"",
+      "reponses": [
+        "Le jour de gloire est arrivé",
+        "La liberté nous appelle",
+        "Le jour de paix est arrivé",
+        "La République est née"
+      ],
+      "bonne": 0,
+      "explication": "La suite est « Le jour de gloire est arrivé ».",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P08",
+      "theme": "P",
+      "enonce": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",
+      "reponses": [
+        "choisir librement son conjoint",
+        "être mariée sans son consentement",
+        "être empêchée de quitter son domicile par sa famille",
+        "se voir imposer une religion par ses parents à sa majorité"
+      ],
+      "bonne": 0,
+      "explication": "La liberté individuelle implique notamment le libre consentement au mariage. Le mariage forcé est un délit puni par la loi.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P09",
+      "theme": "P",
+      "enonce": "Concernant la pratique de la religion, quelle proposition est correcte ?",
+      "reponses": [
+        "Chacun est libre de pratiquer une religion ou de n'en pratiquer aucune",
+        "La pratique religieuse est obligatoire selon les règles applicables",
+        "Seules certaines religions sont autorisées dans le cadre concerné",
+        "L'État finance les cultes dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La liberté de conscience est garantie. L'État est neutre : il ne reconnaît ni ne salarie aucun culte (loi de 1905).",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P10",
+      "theme": "P",
+      "enonce": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+      "reponses": [
+        "Non : les enseignements obligatoires concernent tous les élèves",
+        "Oui, sur simple demande écrite selon les règles applicables",
+        "Oui, si l'enfant est une fille dans le cadre concerné",
+        "Oui, avec l'accord du professeur dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La mixité et l'égalité font partie des principes de l'école publique. Aucun motif personnel ou religieux ne dispense d'un enseignement obligatoire.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P11",
+      "theme": "P",
+      "enonce": "Quelle est la devise de la France ?",
+      "reponses": [
+        "Liberté, Égalité, Fraternité",
+        "Unité, Travail, Justice",
+        "Honneur et Patrie dans le cadre concerné",
+        "Paix, Ordre, Progrès dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Cette devise figure à l'article 2 de la Constitution de 1958 et sur le fronton des bâtiments publics.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P12",
+      "theme": "P",
+      "enonce": "La répudiation de sa femme est :",
+      "reponses": [
+        "interdite en France",
+        "autorisée devant un juge",
+        "autorisée si les deux époux sont d'accord",
+        "autorisée pour les mariages célébrés à l'étranger"
+      ],
+      "bonne": 0,
+      "explication": "La répudiation n'existe pas en droit français. La seule voie de rupture du mariage est le divorce, qui respecte l'égalité entre les époux.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P13",
+      "theme": "P",
+      "enonce": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+      "reponses": [
+        "Ils financent notamment l'école, la santé, la police et la justice",
+        "Ils servent uniquement à payer les élus",
+        "Ils sont facultatifs",
+        "Ils ne concernent que les personnes de nationalité française"
+      ],
+      "bonne": 0,
+      "explication": "L'impôt finance les services publics. Toute personne résidant en France y contribue selon ses facultés, quelle que soit sa nationalité.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P14",
+      "theme": "P",
+      "enonce": "Peut-on brûler publiquement un drapeau français ?",
+      "reponses": [
+        "Non, c'est interdit et puni par la loi",
+        "Oui, c'est une forme de liberté d'expression",
+        "Oui, lors d'une manifestation déclarée",
+        "Oui, si le drapeau vous appartient"
+      ],
+      "bonne": 0,
+      "explication": "L'outrage public au drapeau national est une infraction. La liberté d'expression ne couvre pas l'atteinte aux symboles de la République.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P15",
+      "theme": "P",
+      "enonce": "Que fait l'État pour lutter contre les discriminations ?",
+      "reponses": [
+        "Il les interdit par la loi et les sanctionne pénalement",
+        "Il se contente de recommandations selon les règles applicables",
+        "Il n'intervient que dans la fonction publique dans le cadre concerné",
+        "Il laisse les entreprises décider dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La discrimination fondée notamment sur l'origine, le sexe, le handicap ou la religion est un délit. Le Défenseur des droits peut être saisi gratuitement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P16",
+      "theme": "P",
+      "enonce": "Que représente Marianne ?",
+      "reponses": [
+        "La République française",
+        "La ville de Paris",
+        "La monarchie française",
+        "L'Union européenne"
+      ],
+      "bonne": 0,
+      "explication": "Marianne, coiffée du bonnet phrygien, est l'allégorie de la République. Son buste figure dans les mairies.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P17",
+      "theme": "P",
+      "enonce": "Qu'est-ce que la liberté d'association ?",
+      "reponses": [
+        "Le droit de créer une association ou d'y adhérer librement",
+        "L'obligation d'adhérer à une association de quartier",
+        "Un droit réservé aux citoyens français",
+        "Un droit accordé uniquement aux entreprises"
+      ],
+      "bonne": 0,
+      "explication": "Consacrée par la loi de 1901, elle permet à chacun de fonder une association ou d'y adhérer, et aussi de ne pas y adhérer.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P18",
+      "theme": "P",
+      "enonce": "Qu'est-ce que la liberté ?",
+      "reponses": [
+        "La possibilité d'agir et de choisir dans le respect de la loi et des droits d'autrui",
+        "La possibilité de faire tout ce que l'on veut selon les règles applicables",
+        "L'absence de toute règle dans le cadre concerné",
+        "Le droit de ne jamais respecter la loi dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La liberté s'exerce dans le respect de la loi et de la liberté des autres.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P19",
+      "theme": "P",
+      "enonce": "Qu'est-ce que la Marseillaise ?",
+      "reponses": [
+        "L'hymne national français",
+        "Une fête nationale",
+        "Une devise républicaine",
+        "Un monument de Marseille"
+      ],
+      "bonne": 0,
+      "explication": "Écrite par Rouget de Lisle en 1792, elle est l'hymne national de la France.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P20",
+      "theme": "P",
+      "enonce": "Sur quel document peut-on voir Marianne ?",
+      "reponses": [
+        "Sur les timbres-poste",
+        "Sur un contrat de travail",
+        "Sur une ordonnance médicale",
+        "Sur un bail de location"
+      ],
+      "bonne": 0,
+      "explication": "Marianne figure sur les timbres, sur certaines pièces de monnaie et dans les mairies.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P21",
+      "theme": "P",
+      "enonce": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+      "reponses": [
+        "C'est une discrimination interdite et punie par la loi",
+        "C'est autorisé si le métier est physique selon les règles applicables",
+        "C'est autorisé dans les petites entreprises dans le cadre concerné",
+        "C'est un choix libre de l'employeur dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Refuser une embauche en raison du sexe est une discrimination pénalement sanctionnée. La victime peut saisir le Défenseur des droits ou la justice.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P22",
+      "theme": "P",
+      "enonce": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+      "reponses": [
+        "Tous les citoyens ont les mêmes droits et devoirs devant la loi",
+        "Tout le monde gagne le même salaire selon les règles applicables",
+        "Tout le monde a le même logement dans le cadre concerné",
+        "Tous les citoyens exercent le même métier dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'égalité est l'égalité en droits, sans distinction d'origine, de sexe ou de religion. Elle n'est pas l'uniformité des situations.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P23",
+      "theme": "P",
+      "enonce": "Quelle est la place de la langue française dans la République ?",
+      "reponses": [
+        "Le français est la langue de la République",
+        "Le français est une langue parmi d'autres langues officielles",
+        "La République n'a pas de langue",
+        "L'anglais est la seconde langue officielle"
+      ],
+      "bonne": 0,
+      "explication": "L'article 2 de la Constitution dispose que la langue de la République est le français.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P24",
+      "theme": "P",
+      "enonce": "Quels sont des symboles officiels de la République française ?",
+      "reponses": [
+        "Le drapeau tricolore, La Marseillaise et la devise républicaine",
+        "Le coq uniquement selon les règles applicables",
+        "La tour Eiffel et le Louvre dans le cadre concerné",
+        "La couronne et le sceptre dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les symboles de la République comprennent le drapeau bleu-blanc-rouge, l'hymne national, la devise, Marianne et la fête nationale du 14 juillet.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P25",
+      "theme": "P",
+      "enonce": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe…) ?",
+      "reponses": [
+        "Non, l'injure publique discriminatoire est un délit",
+        "Oui, au nom de la liberté d'expression selon les règles applicables",
+        "Oui, si c'est fait sur internet dans le cadre concerné",
+        "Oui, si la personne ne porte pas plainte dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'injure publique à caractère discriminatoire est punie par la loi, y compris en ligne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P26",
+      "theme": "P",
+      "enonce": "Le régime de la France est :",
+      "reponses": [
+        "une République démocratique",
+        "une monarchie selon les règles applicables",
+        "une théocratie dans le cadre concerné",
+        "un régime militaire dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La France est une République dans laquelle la souveraineté appartient au peuple, qui l'exerce par ses représentants et par le référendum.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P27",
+      "theme": "P",
+      "enonce": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "reponses": [
+        "Pour garantir la liberté de conscience et l'égalité entre tous les élèves",
+        "Pour interdire toute croyance aux élèves selon les règles applicables",
+        "Pour imposer une religion commune dans le cadre concerné",
+        "Pour séparer les filles et les garçons dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La laïcité scolaire protège les élèves de toute pression et permet à chacun d'apprendre dans les mêmes conditions.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P28",
+      "theme": "P",
+      "enonce": "En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?",
+      "reponses": [
+        "1905",
+        "1789",
+        "1881",
+        "1958"
+      ],
+      "bonne": 0,
+      "explication": "La loi du 9 décembre 1905 pose que la République ne reconnaît, ne salarie ni ne subventionne aucun culte.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P29",
+      "theme": "P",
+      "enonce": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+      "reponses": [
+        "Oui, la liberté de conscience inclut le droit de ne pas croire",
+        "Non, chacun doit avoir une religion selon les règles applicables",
+        "Oui, mais seulement en privé et sans le dire dans le cadre concerné",
+        "Non, sauf autorisation administrative dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Croire, ne pas croire ou changer de conviction relève de la liberté de conscience garantie par la laïcité.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P30",
+      "theme": "P",
+      "enonce": "Quel droit est garanti par la laïcité ?",
+      "reponses": [
+        "La liberté de conscience et l'égalité de traitement par l'État",
+        "Le droit à une religion d'État selon les règles applicables",
+        "Le droit d'imposer sa foi aux autres dans le cadre concerné",
+        "Le droit de refuser une loi pour motif religieux dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La laïcité garantit à chacun la liberté de croire ou non, et impose la neutralité de l'État à l'égard de tous.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P31",
+      "theme": "P",
+      "enonce": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+      "reponses": [
+        "Personne : ni les élèves, ni les agents",
+        "Uniquement les élèves selon les règles applicables",
+        "Uniquement les enseignants dans le cadre concerné",
+        "Tout le monde dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La loi de 2004 interdit le port de signes religieux ostensibles aux élèves ; les agents publics sont eux tenus à une stricte neutralité.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P32",
+      "theme": "P",
+      "enonce": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+      "reponses": [
+        "L'État ne privilégie ni ne défavorise aucune religion",
+        "L'État interdit toutes les religions selon les règles applicables",
+        "L'État choisit une religion officielle dans le cadre concerné",
+        "L'État finance les lieux de culte dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La neutralité oblige l'État et ses agents à traiter tous les usagers de la même façon, quelles que soient leurs convictions.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P33",
+      "theme": "P",
+      "enonce": "Que peut faire un usager du service public dans une mairie ?",
+      "reponses": [
+        "Il doit respecter la neutralité du service public et peut demander un service sans discrimination",
+        "Il doit présenter une profession de foi religieuse selon les règles applicables",
+        "Il peut exiger qu'un agent public manifeste sa religion dans le cadre concerné",
+        "Il peut refuser toute règle administrative dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'usager bénéficie d'un service public impartial et peut demander le respect de ses droits.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P34",
+      "theme": "P",
+      "enonce": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+      "reponses": [
+        "Les agents du service public",
+        "Uniquement les usagers",
+        "Toute personne présente dans le bâtiment",
+        "Personne"
+      ],
+      "bonne": 0,
+      "explication": "L'obligation de neutralité pèse sur les agents publics dans l'exercice de leurs fonctions, pas sur les usagers.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P35",
+      "theme": "P",
+      "enonce": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+      "reponses": [
+        "Oui, la neutralité s'impose à tous les agents publics",
+        "Non, chacun est libre dans son service selon les règles applicables",
+        "Oui, uniquement dans les écoles dans le cadre concerné",
+        "Non, sauf pour les fonctionnaires d'État dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'agent public ne doit manifester ni ses convictions religieuses ni ses opinions politiques dans l'exercice de ses fonctions.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P36",
+      "theme": "P",
+      "enonce": "Que garantit le principe de laïcité ?",
+      "reponses": [
+        "La liberté de conscience, l'égalité et la neutralité de l'État",
+        "L'obligation de pratiquer une religion selon les règles applicables",
+        "L'interdiction de toute religion dans le cadre concerné",
+        "La reconnaissance d'une religion officielle dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La laïcité garantit la liberté de conscience, l'égalité et la neutralité de l'État.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P37",
+      "theme": "P",
+      "enonce": "A-t-on le droit de changer de religion ?",
+      "reponses": [
+        "Oui, chacun est libre de changer de religion ou de n'en avoir aucune",
+        "Non, c'est interdit par la loi selon les règles applicables",
+        "Oui, avec l'accord de sa famille dans le cadre concerné",
+        "Oui, une seule fois dans sa vie dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La liberté de conscience comprend le droit de choisir, de changer ou d'abandonner une religion.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P38",
+      "theme": "P",
+      "enonce": "Que représente la laïcité ?",
+      "reponses": [
+        "Un principe qui garantit la liberté de conscience et la neutralité de l'État",
+        "L'interdiction de croire en Dieu selon les règles applicables",
+        "Une religion officielle dans le cadre concerné",
+        "L'obligation de pratiquer une religion dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La laïcité protège la liberté de croire ou de ne pas croire et impose la neutralité de l'État.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P39",
+      "theme": "P",
+      "enonce": "Qu'est ce qui est interdit par la Charte de la laïcité à l'école ?",
+      "reponses": [
+        "Le port de signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse",
+        "Le fait d'avoir une conviction religieuse selon les règles applicables",
+        "Le fait d'étudier une religion en histoire dans le cadre concerné",
+        "Le respect des autres élèves dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La Charte rappelle notamment les règles de laïcité à l'école ; la loi de 2004 interdit les signes religieux ostensibles pour les élèves des écoles, collèges et lycées publics.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "P40",
+      "theme": "P",
+      "enonce": "Que dit l'article 1er de la Constitution française ?",
+      "reponses": [
+        "La France est une République indivisible, laïque, démocratique et sociale",
+        "La France est une monarchie constitutionnelle selon les règles applicables",
+        "La France est une confédération d'États dans le cadre concerné",
+        "La France reconnaît une religion officielle dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'article 1er ajoute que la France assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S01",
+      "theme": "S",
+      "enonce": "Qu'est-ce que l'État de droit ?",
+      "reponses": [
+        "Un système où tous, y compris l'État, sont soumis à la loi",
+        "Un système où l'État peut agir sans limite",
+        "Un système où la loi ne s'applique qu'aux citoyens",
+        "Un système sans juges"
+      ],
+      "bonne": 0,
+      "explication": "Dans un État de droit, les pouvoirs publics sont soumis au droit et leurs décisions peuvent être contestées devant un juge indépendant.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S02",
+      "theme": "S",
+      "enonce": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+      "reponses": [
+        "Il peut être poursuivi selon les règles prévues par la Constitution",
+        "Il est toujours au-dessus de la loi selon les règles applicables",
+        "Il est jugé par le maire dans le cadre concerné",
+        "Il ne peut jamais être poursuivi dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le président bénéficie d'un statut constitutionnel particulier pendant son mandat ; il n'est pas au-dessus du droit.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S03",
+      "theme": "S",
+      "enonce": "La loi est l'expression de :",
+      "reponses": [
+        "la volonté générale",
+        "la volonté du président",
+        "la volonté des juges",
+        "la volonté des entreprises"
+      ],
+      "bonne": 0,
+      "explication": "Formule issue de l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789. La loi est votée par les représentants du peuple.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S04",
+      "theme": "S",
+      "enonce": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+      "reponses": [
+        "6 ans",
+        "4 ans",
+        "5 ans",
+        "7 ans"
+      ],
+      "bonne": 0,
+      "explication": "Les conseillers municipaux sont élus pour 6 ans ; le conseil élit ensuite le maire en son sein.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S05",
+      "theme": "S",
+      "enonce": "Que garantit l'État de droit ?",
+      "reponses": [
+        "Que les pouvoirs publics et les citoyens sont soumis au droit et que les droits peuvent être protégés par un juge",
+        "Que le Gouvernement peut agir sans contrôle selon les règles applicables",
+        "Que les lois ne s'appliquent pas aux élus dans le cadre concerné",
+        "Que les tribunaux ne peuvent pas contrôler l'administration dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'État de droit soumet l'action publique au droit et garantit des voies de recours.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S06",
+      "theme": "S",
+      "enonce": "Une personne peut-elle voter à la place d'une autre ?",
+      "reponses": [
+        "Non, sauf procuration établie dans les formes légales",
+        "Oui, si elle est de la même famille selon les règles applicables",
+        "Oui, avec la carte d'électeur de la personne",
+        "Oui, si la personne est absente dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le vote est personnel. Seule une procuration régulièrement établie permet de voter pour autrui ; la fraude électorale est un délit.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S07",
+      "theme": "S",
+      "enonce": "Est-ce que le vote est obligatoire ?",
+      "reponses": [
+        "Non, le vote est un droit et un devoir civique, mais il n'est pas obligatoire",
+        "Oui, sous peine d'amende selon les règles applicables",
+        "Oui, pour toutes les élections dans le cadre concerné",
+        "Oui, uniquement pour l'élection présidentielle dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "En France, le vote n'est pas obligatoire pour les électeurs, mais l'inscription sur les listes électorales l'est.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S08",
+      "theme": "S",
+      "enonce": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",
+      "reponses": [
+        "Non, une nouvelle élection doit être organisée",
+        "Oui, s'il le juge nécessaire selon les règles applicables",
+        "Oui, avec l'accord du Gouvernement dans le cadre concerné",
+        "Oui, en cas de crise dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le mandat est limité dans le temps par la Constitution. Le pouvoir est temporaire et remis en jeu par le suffrage.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S09",
+      "theme": "S",
+      "enonce": "Qui dirige l'action du Gouvernement ?",
+      "reponses": [
+        "Le Premier ministre",
+        "Le président du Sénat",
+        "Le président de l'Assemblée nationale",
+        "Le préfet"
+      ],
+      "bonne": 0,
+      "explication": "L'article 21 de la Constitution confie au Premier ministre la direction de l'action du Gouvernement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S10",
+      "theme": "S",
+      "enonce": "Qui nomme le Premier ministre ?",
+      "reponses": [
+        "Le président de la République",
+        "L'Assemblée nationale",
+        "Le Sénat",
+        "Le Conseil constitutionnel"
+      ],
+      "bonne": 0,
+      "explication": "Le président nomme le Premier ministre ; celui-ci doit disposer de la confiance de l'Assemblée nationale pour gouverner.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S11",
+      "theme": "S",
+      "enonce": "Quelle est l'organisation administrative de la France ?",
+      "reponses": [
+        "Communes, départements et régions",
+        "Uniquement des régions selon les règles applicables",
+        "Uniquement des communes dans le cadre concerné",
+        "États fédérés et cantons dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La France est un État unitaire décentralisé, organisé en communes, départements et régions, auxquels s'ajoutent les collectivités d'outre-mer.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S12",
+      "theme": "S",
+      "enonce": "Qu'est-ce que le pouvoir législatif ? Le pouvoir :",
+      "reponses": [
+        "de voter la loi",
+        "d'appliquer la loi",
+        "de juger",
+        "de nommer les ministres"
+      ],
+      "bonne": 0,
+      "explication": "Le pouvoir législatif appartient au Parlement. L'exécutif applique la loi, le judiciaire la fait respecter.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S13",
+      "theme": "S",
+      "enonce": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+      "reponses": [
+        "Pour éviter la concentration du pouvoir et protéger les libertés",
+        "Pour accélérer les décisions selon les règles applicables",
+        "Pour réduire le nombre d'élus dans le cadre concerné",
+        "Pour supprimer le rôle des juges dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La séparation des pouvoirs, théorisée par Montesquieu, empêche qu'une même autorité fasse la loi, l'applique et juge.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S14",
+      "theme": "S",
+      "enonce": "Qui sanctionne l'auteur d'un vol ?",
+      "reponses": [
+        "Un tribunal",
+        "La police selon les règles applicables",
+        "Le maire dans le cadre concerné",
+        "Le préfet dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La police constate l'infraction et enquête, mais seule une juridiction peut prononcer une peine.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S15",
+      "theme": "S",
+      "enonce": "Quel est le rôle du gouvernement ?",
+      "reponses": [
+        "Déterminer et conduire la politique de la Nation",
+        "Voter les lois",
+        "Juger les affaires pénales",
+        "Contrôler la constitutionnalité des lois"
+      ],
+      "bonne": 0,
+      "explication": "Le Gouvernement dispose de l'administration et de la force publique. Il est responsable devant le Parlement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S16",
+      "theme": "S",
+      "enonce": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+      "reponses": [
+        "Il peut être poursuivi devant la justice comme tout citoyen",
+        "Il ne peut jamais être poursuivi selon les règles applicables",
+        "Il est jugé par le Gouvernement dans le cadre concerné",
+        "Il perd automatiquement la nationalité dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Nul n'est au-dessus des lois. Pour les actes commis dans l'exercice de ses fonctions, un ministre relève de la Cour de justice de la République.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S17",
+      "theme": "S",
+      "enonce": "Combien de députés composent l'Assemblée nationale ?",
+      "reponses": [
+        "577",
+        "348",
+        "300",
+        "925"
+      ],
+      "bonne": 0,
+      "explication": "Les 577 députés sont élus pour 5 ans au suffrage universel direct.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S18",
+      "theme": "S",
+      "enonce": "Qui peut voter aux élections en France ?",
+      "reponses": [
+        "Les citoyens français majeurs inscrits sur les listes électorales",
+        "Toute personne résidant en France selon les règles applicables",
+        "Les personnes de plus de 16 ans dans le cadre concerné",
+        "Toute personne titulaire d'un titre de séjour dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les citoyens de l'Union européenne résidant en France peuvent en outre voter aux élections municipales et européennes.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S19",
+      "theme": "S",
+      "enonce": "Pour combien de temps sont élus les sénateurs ?",
+      "reponses": [
+        "6 ans",
+        "5 ans",
+        "4 ans",
+        "9 ans"
+      ],
+      "bonne": 0,
+      "explication": "Les 348 sénateurs sont élus pour 6 ans au suffrage universel indirect, par un collège de grands électeurs.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S20",
+      "theme": "S",
+      "enonce": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+      "reponses": [
+        "Législatif, exécutif et judiciaire",
+        "Municipal, départemental et régional",
+        "Politique, économique et social",
+        "Civil, pénal et administratif"
+      ],
+      "bonne": 0,
+      "explication": "Ces trois pouvoirs sont exercés par des organes distincts qui se contrôlent mutuellement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S21",
+      "theme": "S",
+      "enonce": "Est-ce que le président de la République a tous les pouvoirs ?",
+      "reponses": [
+        "Non, ses pouvoirs sont encadrés par la Constitution",
+        "Oui, il décide seul de tout selon les règles applicables",
+        "Oui, sauf en matière de justice dans le cadre concerné",
+        "Non, il n'a aucun pouvoir réel dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le président partage l'exécutif avec le Gouvernement et ne peut ni voter la loi ni juger.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S22",
+      "theme": "S",
+      "enonce": "Qui est le préfet ?",
+      "reponses": [
+        "Le représentant de l'État dans le département",
+        "Un élu du conseil départemental selon les règles applicables",
+        "Le chef de la police municipale dans le cadre concerné",
+        "Le président de la région dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Nommé par décret du président de la République, le préfet représente l'État et veille au respect des lois dans le département.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S23",
+      "theme": "S",
+      "enonce": "Quelle condition est nécessaire pour voter aux élections ?",
+      "reponses": [
+        "Être inscrit sur les listes électorales",
+        "Payer des impôts selon les règles applicables",
+        "Être propriétaire d'un logement dans le cadre concerné",
+        "Être né en France dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Il faut être majeur, jouir de ses droits civiques et être inscrit sur les listes électorales de sa commune.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S24",
+      "theme": "S",
+      "enonce": "Qui dirige la commune ?",
+      "reponses": [
+        "Le maire",
+        "Le préfet",
+        "Le député",
+        "Le président du département"
+      ],
+      "bonne": 0,
+      "explication": "Le maire est élu par le conseil municipal. Il est aussi officier d'état civil et officier de police judiciaire.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S25",
+      "theme": "S",
+      "enonce": "Quel est le régime politique de la France aujourd'hui ?",
+      "reponses": [
+        "La Ve République",
+        "La IVe République",
+        "Une monarchie parlementaire",
+        "Un régime présidentiel fédéral"
+      ],
+      "bonne": 0,
+      "explication": "La Ve République a été instaurée par la Constitution du 4 octobre 1958.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S26",
+      "theme": "S",
+      "enonce": "Qu'est-ce que l'Hôtel de Matignon ?",
+      "reponses": [
+        "La résidence officielle du Premier ministre",
+        "La résidence du président de la République",
+        "Le siège du Sénat",
+        "Le siège du Conseil constitutionnel"
+      ],
+      "bonne": 0,
+      "explication": "Le président réside au palais de l'Élysée, le Sénat siège au palais du Luxembourg et l'Assemblée nationale au Palais-Bourbon.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S27",
+      "theme": "S",
+      "enonce": "Le Parlement est composé :",
+      "reponses": [
+        "de l'Assemblée nationale et du Sénat",
+        "de l'Assemblée nationale seule",
+        "du Gouvernement et du Sénat",
+        "des conseils régionaux"
+      ],
+      "bonne": 0,
+      "explication": "Ce bicamérisme permet un double examen des textes de loi.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S28",
+      "theme": "S",
+      "enonce": "Quel est le rôle du président de la République ?",
+      "reponses": [
+        "Il veille au respect de la Constitution, assure le fonctionnement régulier des pouvoirs publics et représente la France",
+        "Il vote seul toutes les lois selon les règles applicables",
+        "Il dirige directement toutes les communes dans le cadre concerné",
+        "Il rend les décisions de justice dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le président est le chef de l'État ; la Constitution définit ses compétences, notamment en matière de défense et de diplomatie.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S29",
+      "theme": "S",
+      "enonce": "Quel est le rôle du Premier ministre ?",
+      "reponses": [
+        "Il dirige l'action du Gouvernement et assure l'exécution des lois",
+        "Il préside le Sénat selon les règles applicables",
+        "Il rend la justice dans le cadre concerné",
+        "Il dirige les communes dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le Premier ministre dirige l'action du Gouvernement et dispose de l'administration et de la force armée.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S30",
+      "theme": "S",
+      "enonce": "Qui est le chef du Gouvernement ?",
+      "reponses": [
+        "Le Premier ministre",
+        "Le président de la République",
+        "Le président de l'Assemblée nationale",
+        "Le ministre de l'Intérieur"
+      ],
+      "bonne": 0,
+      "explication": "Le Premier ministre dirige l'action du Gouvernement et est responsable devant l'Assemblée nationale.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S31",
+      "theme": "S",
+      "enonce": "Combien y a-t-il de régions en France ?",
+      "reponses": [
+        "18",
+        "13",
+        "22",
+        "27"
+      ],
+      "bonne": 0,
+      "explication": "La France compte 18 régions : 13 en métropole depuis 2016 et 5 en outre-mer.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S32",
+      "theme": "S",
+      "enonce": "Quel est le rôle du Défenseur des droits ?",
+      "reponses": [
+        "Défendre les droits des usagers et lutter contre les discriminations",
+        "Juger les affaires pénales selon les règles applicables",
+        "Voter les lois dans le cadre concerné",
+        "Représenter l'État dans le département dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Autorité indépendante inscrite dans la Constitution, il peut être saisi gratuitement par toute personne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S33",
+      "theme": "S",
+      "enonce": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "reponses": [
+        "Depuis le 1er janvier 2002 pour les billets et pièces",
+        "Depuis 1992 pour les billets et pièces selon les règles applicables",
+        "Depuis 2010 dans le cadre concerné",
+        "Depuis 1989 dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les billets et pièces en euros sont entrés en circulation en France le 1er janvier 2002.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S34",
+      "theme": "S",
+      "enonce": "Quel est le rôle principal du département ?",
+      "reponses": [
+        "L'action sociale et la gestion des collèges",
+        "La gestion des lycées",
+        "La délivrance des titres de séjour",
+        "L'organisation de la défense nationale"
+      ],
+      "bonne": 0,
+      "explication": "Le département assure notamment l'aide sociale à l'enfance, le RSA, l'aide aux personnes âgées et l'entretien des collèges.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S35",
+      "theme": "S",
+      "enonce": "Quel est le rôle principal des communes ?",
+      "reponses": [
+        "Gérer l'état civil, les écoles primaires et les services de proximité",
+        "Gérer les lycées selon les règles applicables",
+        "Voter les lois dans le cadre concerné",
+        "Délivrer les passeports biométriques uniquement dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La commune est l'échelon de proximité : état civil, écoles maternelles et élémentaires, urbanisme, voirie communale.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S36",
+      "theme": "S",
+      "enonce": "Combien de communes environ existe-t-il en France ?",
+      "reponses": [
+        "Environ 35 000",
+        "Environ 5 000",
+        "Environ 100 000",
+        "Environ 500"
+      ],
+      "bonne": 0,
+      "explication": "La France compte près de 35 000 communes, de la plus petite à la plus grande.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S37",
+      "theme": "S",
+      "enonce": "Quel traité concerne la construction de l'Union européenne ?",
+      "reponses": [
+        "Le traité de Maastricht",
+        "Le traité de Versailles",
+        "Le traité de Vienne",
+        "Le traité de Tordesillas"
+      ],
+      "bonne": 0,
+      "explication": "Signé en 1992, le traité de Maastricht crée l'Union européenne et la citoyenneté européenne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S38",
+      "theme": "S",
+      "enonce": "Quel État a quitté l'Union européenne en 2020 ?",
+      "reponses": [
+        "Le Royaume-Uni",
+        "La Suisse selon les règles applicables",
+        "La Norvège dans le cadre concerné",
+        "La Turquie dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "C'est le Brexit. La Suisse et la Norvège, elles, n'ont jamais été membres de l'Union.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S39",
+      "theme": "S",
+      "enonce": "Quelle est la devise de l'Union européenne ?",
+      "reponses": [
+        "Unie dans la diversité",
+        "Liberté, Égalité, Fraternité",
+        "Paix et prospérité",
+        "Un pour tous, tous pour un"
+      ],
+      "bonne": 0,
+      "explication": "Cette devise signifie que les Européens s'unissent pour la paix et la prospérité tout en gardant leurs cultures et leurs langues.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S40",
+      "theme": "S",
+      "enonce": "Quel est l'hymne de l'Union européenne ?",
+      "reponses": [
+        "L'Ode à la joie de Beethoven",
+        "La Marseillaise selon les règles applicables",
+        "God Save the King dans le cadre concerné",
+        "L'Internationale dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Il s'agit du prélude de l'Ode à la joie, dernier mouvement de la 9e symphonie de Beethoven, adopté sans paroles.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S41",
+      "theme": "S",
+      "enonce": "De quoi est composé le drapeau européen ?",
+      "reponses": [
+        "De 12 étoiles dorées disposées en cercle",
+        "D'une étoile par État membre selon les règles applicables",
+        "De trois bandes de couleur dans le cadre concerné",
+        "D'une croix blanche dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le nombre 12 est un symbole d'unité et de perfection : il ne correspond pas au nombre d'États membres.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S42",
+      "theme": "S",
+      "enonce": "De quelle couleur est le drapeau européen ?",
+      "reponses": [
+        "Bleu",
+        "Vert",
+        "Rouge",
+        "Blanc"
+      ],
+      "bonne": 0,
+      "explication": "Le fond est bleu, avec un cercle de douze étoiles dorées.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S43",
+      "theme": "S",
+      "enonce": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+      "reponses": [
+        "1992",
+        "1957",
+        "1981",
+        "2002"
+      ],
+      "bonne": 0,
+      "explication": "Signé le 7 février 1992, il est entré en vigueur en 1993.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S44",
+      "theme": "S",
+      "enonce": "Où est le siège du Parlement européen ?",
+      "reponses": [
+        "À Strasbourg",
+        "À Bruxelles",
+        "À Luxembourg",
+        "À Francfort"
+      ],
+      "bonne": 0,
+      "explication": "Le siège officiel est à Strasbourg ; certaines sessions et travaux de commissions se tiennent à Bruxelles.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S45",
+      "theme": "S",
+      "enonce": "Où est le siège de la Commission européenne ?",
+      "reponses": [
+        "À Bruxelles",
+        "À Strasbourg",
+        "À Genève",
+        "À Rome"
+      ],
+      "bonne": 0,
+      "explication": "La Commission propose les textes européens et veille à leur application.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S46",
+      "theme": "S",
+      "enonce": "Quel État n'est pas membre de l'Union européenne ?",
+      "reponses": [
+        "La Suisse",
+        "L'Espagne",
+        "La Belgique",
+        "Le Portugal"
+      ],
+      "bonne": 0,
+      "explication": "La Suisse entretient des accords bilatéraux avec l'Union sans en être membre.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S47",
+      "theme": "S",
+      "enonce": "Quand célèbre-t-on la journée de l'Europe ?",
+      "reponses": [
+        "Le 9 mai",
+        "Le 8 mai",
+        "Le 14 juillet",
+        "Le 1er janvier"
+      ],
+      "bonne": 0,
+      "explication": "Le 9 mai commémore la déclaration Schuman de 1950, acte fondateur de la construction européenne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S48",
+      "theme": "S",
+      "enonce": "À quelle fréquence les élections européennes sont-elles organisées ?",
+      "reponses": [
+        "Tous les 5 ans",
+        "Tous les 4 ans",
+        "Tous les 6 ans",
+        "Tous les 7 ans"
+      ],
+      "bonne": 0,
+      "explication": "Les députés européens sont élus au suffrage universel direct pour 5 ans.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S49",
+      "theme": "S",
+      "enonce": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+      "reponses": [
+        "Être citoyen d'un État membre de l'Union européenne et inscrit sur les listes",
+        "Résider en France depuis 5 ans selon les règles applicables",
+        "Payer l'impôt sur le revenu dans le cadre concerné",
+        "Être né dans l'Union européenne dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Un ressortissant européen résidant en France peut y voter aux européennes et aux municipales s'il est inscrit sur les listes.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "S50",
+      "theme": "S",
+      "enonce": "Quel pays est un pays fondateur de l'Union européenne ?",
+      "reponses": [
+        "La France",
+        "La Pologne",
+        "La Suède",
+        "La Grèce"
+      ],
+      "bonne": 0,
+      "explication": "Les six fondateurs sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D01",
+      "theme": "D",
+      "enonce": "À quelle liberté la PMA fait-elle référence ?",
+      "reponses": [
+        "La procréation médicalement assistée",
+        "La protection médicale des adultes",
+        "La prévention médicale assistée",
+        "La prise en charge médicale automatique"
+      ],
+      "bonne": 0,
+      "explication": "PMA signifie procréation médicalement assistée.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D02",
+      "theme": "D",
+      "enonce": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+      "reponses": [
+        "De l'ordre public et de l'intérêt général",
+        "Des convictions religieuses de la majorité",
+        "Des intérêts privés des entreprises",
+        "De l'opinion des médias"
+      ],
+      "bonne": 0,
+      "explication": "Les libertés peuvent être limitées par la loi, de façon nécessaire et proportionnée, pour protéger l'ordre public et les droits d'autrui.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D03",
+      "theme": "D",
+      "enonce": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "reponses": [
+        "Deux personnes majeures peuvent se marier librement si elles y consentent",
+        "Le mariage peut être imposé par la famille",
+        "Le mariage est réservé aux personnes de nationalité française",
+        "Le mariage entre personnes de même sexe est interdit"
+      ],
+      "bonne": 0,
+      "explication": "Le consentement libre des deux époux est indispensable. Le mariage entre personnes de même sexe est autorisé depuis 2013.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D04",
+      "theme": "D",
+      "enonce": "Est-il toujours possible de divorcer ?",
+      "reponses": [
+        "Oui, chaque époux peut demander le divorce",
+        "Non, il faut l'accord des deux familles",
+        "Non, le divorce est interdit",
+        "Oui, uniquement après 10 ans de mariage"
+      ],
+      "bonne": 0,
+      "explication": "Le divorce peut être prononcé par consentement mutuel ou par le juge, à la demande d'un seul des époux.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D05",
+      "theme": "D",
+      "enonce": "La peine de mort est :",
+      "reponses": [
+        "abolie en France depuis 1981",
+        "appliquée pour les crimes les plus graves",
+        "suspendue mais toujours prévue par la loi",
+        "décidée au cas par cas"
+      ],
+      "bonne": 0,
+      "explication": "Son abolition, portée par Robert Badinter, est inscrite dans la Constitution depuis 2007.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D06",
+      "theme": "D",
+      "enonce": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+      "reponses": [
+        "Les hommes naissent et demeurent libres et égaux en droits",
+        "Travail, Famille, Patrie selon les règles applicables",
+        "La propriété, c'est le vol dans le cadre concerné",
+        "Un pour tous, tous pour un dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "C'est l'article 1er de la Déclaration du 26 août 1789, qui fait partie du bloc de constitutionnalité.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D07",
+      "theme": "D",
+      "enonce": "Le recours à l'avortement est-il autorisé ?",
+      "reponses": [
+        "Oui, l'IVG est légale et garantie par la Constitution",
+        "Non, il est interdit selon les règles applicables",
+        "Oui, uniquement en cas de danger vital dans le cadre concerné",
+        "Oui, avec l'accord du conjoint dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Légalisée par la loi Veil de 1975, la liberté de recourir à l'IVG a été inscrite dans la Constitution en 2024.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D08",
+      "theme": "D",
+      "enonce": "Que contient la Constitution ?",
+      "reponses": [
+        "Les règles d'organisation des pouvoirs publics et les droits fondamentaux",
+        "Le montant des impôts selon les règles applicables",
+        "Le code de la route dans le cadre concerné",
+        "Les conventions collectives dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "C'est la norme suprême : toutes les autres règles doivent la respecter.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D09",
+      "theme": "D",
+      "enonce": "Que garantit la liberté de la presse ?",
+      "reponses": [
+        "Le droit d'informer et d'être informé, dans le respect de la loi",
+        "Le droit de publier n'importe quelle information fausse",
+        "Le contrôle des journaux par l'État",
+        "Le droit de ne jamais citer ses sources devant un juge"
+      ],
+      "bonne": 0,
+      "explication": "Consacrée par la loi de 1881, elle a pour limites la diffamation, l'injure et l'incitation à la haine.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D10",
+      "theme": "D",
+      "enonce": "Que prévoit la Charte de l'environnement ?",
+      "reponses": [
+        "Le droit de vivre dans un environnement équilibré et respectueux de la santé",
+        "La gratuité des transports selon les règles applicables",
+        "L'interdiction de toute industrie dans le cadre concerné",
+        "Le droit de chasser librement dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Adossée à la Constitution depuis 2005, elle a valeur constitutionnelle.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D11",
+      "theme": "D",
+      "enonce": "Que signifie la dignité humaine ?",
+      "reponses": [
+        "Toute personne mérite le respect du seul fait qu'elle est un être humain",
+        "Le respect dû aux personnes qui travaillent selon les règles applicables",
+        "Le respect dû aux personnes âgées uniquement dans le cadre concerné",
+        "Le respect dû aux citoyens français dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La dignité fonde l'interdiction de la torture, de l'esclavage et des traitements inhumains ou dégradants.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D12",
+      "theme": "D",
+      "enonce": "Que signifie le droit de manifester ?",
+      "reponses": [
+        "Exprimer collectivement une opinion sur la voie publique, après déclaration",
+        "Bloquer les rues sans aucune règle selon les règles applicables",
+        "Manifester uniquement avec l'accord d'un parti dans le cadre concerné",
+        "Un droit réservé aux syndicats dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La manifestation doit être déclarée en préfecture ou en mairie et se dérouler pacifiquement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D13",
+      "theme": "D",
+      "enonce": "Que signifie PMA ?",
+      "reponses": [
+        "Procréation médicalement assistée",
+        "Prestation médicale accompagnée",
+        "Programme médical avancé",
+        "Protection maternelle et de l'accueil"
+      ],
+      "bonne": 0,
+      "explication": "Depuis la loi de bioéthique de 2021, la PMA est ouverte aux couples de femmes et aux femmes seules.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D14",
+      "theme": "D",
+      "enonce": "Quel texte est le plus difficile à modifier ?",
+      "reponses": [
+        "La Constitution",
+        "Un décret",
+        "Un arrêté municipal",
+        "Une circulaire"
+      ],
+      "bonne": 0,
+      "explication": "Sa révision suppose un vote du Parlement puis un référendum ou une majorité des trois cinquièmes du Congrès.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D15",
+      "theme": "D",
+      "enonce": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+      "reponses": [
+        "La liberté de conscience",
+        "La liberté d'association",
+        "La liberté de circulation",
+        "La liberté d'entreprendre"
+      ],
+      "bonne": 0,
+      "explication": "Elle comprend le droit de croire, de ne pas croire et de changer de conviction.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D16",
+      "theme": "D",
+      "enonce": "Qu'est-ce que le droit de grève ?",
+      "reponses": [
+        "Le droit de cesser collectivement le travail pour défendre des revendications professionnelles",
+        "Le droit de ne pas venir travailler quand on le souhaite selon les règles applicables",
+        "Un droit réservé aux fonctionnaires dans le cadre concerné",
+        "Le droit d'empêcher les autres de travailler dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "C'est un droit constitutionnel, encadré : dans certains services publics, un préavis et un service minimum s'imposent.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D17",
+      "theme": "D",
+      "enonce": "Qu'est-ce que la Constitution ?",
+      "reponses": [
+        "Le texte fondamental qui organise les pouvoirs et garantit les droits",
+        "Un règlement intérieur d'entreprise selon les règles applicables",
+        "Un code de bonne conduite dans le cadre concerné",
+        "Un traité international dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La Constitution actuelle est celle du 4 octobre 1958, qui fonde la Ve République.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D18",
+      "theme": "D",
+      "enonce": "Qui peut demander à avorter ?",
+      "reponses": [
+        "Toute femme qui remplit les conditions légales applicables à l'IVG",
+        "Uniquement les femmes mariées selon les règles applicables",
+        "Uniquement les femmes françaises dans le cadre concerné",
+        "Uniquement avec l'accord du conjoint dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'IVG relève d'un droit de la femme et ne nécessite pas l'accord du conjoint.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D19",
+      "theme": "D",
+      "enonce": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+      "reponses": [
+        "Oui, dans les mêmes conditions qu'un homme",
+        "Non",
+        "Oui, avec l'accord de son mari",
+        "Oui, uniquement aux élections locales"
+      ],
+      "bonne": 0,
+      "explication": "Les femmes ont obtenu le droit de vote et d'éligibilité en 1944, et l'ont exercé pour la première fois en 1945.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D20",
+      "theme": "D",
+      "enonce": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+      "reponses": [
+        "La loi s'y applique comme ailleurs : injures et menaces sont punissables",
+        "Tout est permis car c'est virtuel selon les règles applicables",
+        "L'anonymat empêche toute poursuite dans le cadre concerné",
+        "Seuls les mineurs peuvent être sanctionnés dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le harcèlement en ligne, la diffusion d'images sans consentement et l'incitation à la haine sont des infractions.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D21",
+      "theme": "D",
+      "enonce": "Jeter un mégot par terre est :",
+      "reponses": [
+        "interdit et passible d'une amende",
+        "autorisé si le mégot est éteint",
+        "autorisé en dehors des villes",
+        "toléré partout"
+      ],
+      "bonne": 0,
+      "explication": "L'abandon de déchets sur la voie publique est sanctionné par une amende.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D22",
+      "theme": "D",
+      "enonce": "L'État peut-il limiter les droits et libertés ?",
+      "reponses": [
+        "Oui, par la loi, pour protéger l'ordre public et les droits d'autrui",
+        "Non, jamais selon les règles applicables",
+        "Oui, sans aucune règle dans le cadre concerné",
+        "Oui, uniquement en temps de guerre dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Toute limitation doit avoir une base légale et rester nécessaire et proportionnée ; elle peut être contestée devant un juge.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D23",
+      "theme": "D",
+      "enonce": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l'environnement ?",
+      "reponses": [
+        "Trier ses déchets et limiter sa consommation d'énergie",
+        "Brûler ses déchets dans son jardin selon les règles applicables",
+        "Jeter les huiles usagées dans l'évier dans le cadre concerné",
+        "Laisser couler l'eau en permanence dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le brûlage des déchets verts à l'air libre est d'ailleurs interdit dans la plupart des cas.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D24",
+      "theme": "D",
+      "enonce": "Quelle proposition constitue une obligation ?",
+      "reponses": [
+        "Respecter la loi et payer ses impôts",
+        "Adhérer à un parti politique selon les règles applicables",
+        "Pratiquer une religion dans le cadre concerné",
+        "Participer à une association dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les droits s'accompagnent de devoirs : respecter la loi, contribuer aux charges publiques, respecter autrui.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D25",
+      "theme": "D",
+      "enonce": "Pour quel motif peut-on limiter la liberté d'expression ?",
+      "reponses": [
+        "L'incitation à la haine, la diffamation ou l'injure",
+        "La critique du Gouvernement selon les règles applicables",
+        "La publication d'une opinion minoritaire dans le cadre concerné",
+        "La satire politique dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Critiquer les responsables publics est légitime ; en revanche, appeler à la haine ou à la violence est un délit.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D26",
+      "theme": "D",
+      "enonce": "Pourquoi doit-on trier ses déchets ?",
+      "reponses": [
+        "Pour permettre le recyclage et limiter la pollution",
+        "Parce que c'est facultatif mais bien vu selon les règles applicables",
+        "Pour réduire le prix de l'électricité dans le cadre concerné",
+        "Pour éviter de payer la taxe d'habitation dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le tri permet de valoriser les matières et de réduire l'enfouissement. Il est organisé par les communes.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D27",
+      "theme": "D",
+      "enonce": "Que doit faire une victime de violences ?",
+      "reponses": [
+        "Porter plainte auprès de la police ou de la gendarmerie",
+        "Se venger elle-même selon les règles applicables",
+        "Ne rien dire pour éviter les problèmes dans le cadre concerné",
+        "Attendre un an avant d'agir dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "On peut aussi consulter un médecin pour faire constater les blessures. Le 17 permet d'alerter en cas d'urgence.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D28",
+      "theme": "D",
+      "enonce": "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+      "reponses": [
+        "Les respecter, et contester ensuite par les voies légales si nécessaire",
+        "Les ignorer si on les juge injustes selon les règles applicables",
+        "Prendre la fuite dans le cadre concerné",
+        "Refuser de présenter ses papiers dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le refus d'obtempérer est une infraction. Les recours contre une décision se font devant les juridictions compétentes.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D29",
+      "theme": "D",
+      "enonce": "Quel est le rôle de la police ?",
+      "reponses": [
+        "Protéger les personnes et les biens et faire respecter la loi",
+        "Juger les personnes arrêtées selon les règles applicables",
+        "Voter les lois dans le cadre concerné",
+        "Fixer le montant des amendes dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La police et la gendarmerie constatent les infractions et mènent les enquêtes ; ce sont les tribunaux qui jugent.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D30",
+      "theme": "D",
+      "enonce": "Quel est un exemple d'assistance à personne en danger ?",
+      "reponses": [
+        "Appeler les secours en cas d'accident",
+        "Filmer la scène et publier la vidéo",
+        "Passer son chemin",
+        "Attendre que quelqu'un d'autre agisse"
+      ],
+      "bonne": 0,
+      "explication": "La non-assistance à personne en danger est un délit. Numéros utiles : 15, 17, 18 et 112.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D31",
+      "theme": "D",
+      "enonce": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+      "reponses": [
+        "L'obligation de respecter les limitations de vitesse",
+        "L'interdiction de voter selon les règles applicables",
+        "L'interdiction de changer de religion dans le cadre concerné",
+        "L'interdiction de créer une association dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La liberté d'aller et venir est encadrée par des règles de sécurité qui protègent tout le monde.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D32",
+      "theme": "D",
+      "enonce": "Quelle est l'attitude à avoir lorsque qu'on est témoin de violences ?",
+      "reponses": [
+        "Alerter les secours ou la police",
+        "Ne pas s'en mêler",
+        "Intervenir physiquement en toutes circonstances",
+        "Attendre le lendemain pour en parler"
+      ],
+      "bonne": 0,
+      "explication": "Porter secours, c'est d'abord alerter sans se mettre en danger. Le 17 et le 112 sont joignables gratuitement.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D33",
+      "theme": "D",
+      "enonce": "Quelle est l'infraction la plus grave ?",
+      "reponses": [
+        "Le crime",
+        "Le délit",
+        "La contravention",
+        "L'incivilité"
+      ],
+      "bonne": 0,
+      "explication": "Les infractions se classent en contraventions, délits et crimes, du moins grave au plus grave.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D34",
+      "theme": "D",
+      "enonce": "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+      "reponses": [
+        "Respecter la loi française",
+        "Voter aux élections nationales",
+        "Effectuer un service militaire",
+        "Adhérer à une association"
+      ],
+      "bonne": 0,
+      "explication": "Le respect de la loi et le paiement des impôts s'imposent à tous les résidents ; le vote aux élections nationales est réservé aux citoyens français.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D35",
+      "theme": "D",
+      "enonce": "Quelle proposition représente un exemple de crime ?",
+      "reponses": [
+        "Le meurtre",
+        "Le vol simple",
+        "L'excès de vitesse",
+        "Le stationnement gênant"
+      ],
+      "bonne": 0,
+      "explication": "Les crimes sont jugés par la cour d'assises ou la cour criminelle départementale.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D36",
+      "theme": "D",
+      "enonce": "Quelle proposition représente un exemple de délit ?",
+      "reponses": [
+        "Le vol",
+        "Le meurtre",
+        "Le stationnement interdit",
+        "Un retard au travail"
+      ],
+      "bonne": 0,
+      "explication": "Les délits relèvent du tribunal correctionnel ; les contraventions, du tribunal de police.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D37",
+      "theme": "D",
+      "enonce": "Qui veille au maintien de l'ordre public ?",
+      "reponses": [
+        "La police et la gendarmerie, sous l'autorité de l'État",
+        "Les associations de quartier selon les règles applicables",
+        "Les entreprises de sécurité privée seules dans le cadre concerné",
+        "Les citoyens eux-mêmes dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le maire dispose également de pouvoirs de police administrative dans sa commune.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "D38",
+      "theme": "D",
+      "enonce": "S'agissant des déchets, quelle proposition est correcte ?",
+      "reponses": [
+        "Ils doivent être triés et déposés dans les lieux prévus",
+        "Ils peuvent être brûlés dans son jardin selon les règles applicables",
+        "Ils peuvent être abandonnés en forêt dans le cadre concerné",
+        "Ils sont ramassés partout sans règles dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les encombrants se déposent en déchetterie ou lors des collectes organisées par la commune.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H01",
+      "theme": "H",
+      "enonce": "Quel était le surnom de Louis XIV ?",
+      "reponses": [
+        "Le Roi-Soleil",
+        "Le Roi Bien-Aimé",
+        "Saint Louis",
+        "Le Grand Empereur"
+      ],
+      "bonne": 0,
+      "explication": "Louis XIV a régné de 1643 à 1715 et fait construire le château de Versailles.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H02",
+      "theme": "H",
+      "enonce": "Quel roi de France a été exécuté pendant la Révolution française ?",
+      "reponses": [
+        "Louis XVI",
+        "Louis XIV",
+        "Henri IV",
+        "Charles X"
+      ],
+      "bonne": 0,
+      "explication": "Louis XVI a été exécuté le 21 janvier 1793, après la proclamation de la République en septembre 1792.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H03",
+      "theme": "H",
+      "enonce": "En quelle année Napoléon Ier est-il devenu empereur ?",
+      "reponses": [
+        "1804",
+        "1789",
+        "1815",
+        "1830"
+      ],
+      "bonne": 0,
+      "explication": "Sacré empereur en 1804, il laisse notamment le Code civil, adopté en 1804.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H04",
+      "theme": "H",
+      "enonce": "Lequel de ces personnages a un lien avec la République française ?",
+      "reponses": [
+        "Marianne",
+        "Louis XIV uniquement",
+        "Napoléon III uniquement",
+        "Un roi de France"
+      ],
+      "bonne": 0,
+      "explication": "Marianne est une figure emblématique de la République française.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H05",
+      "theme": "H",
+      "enonce": "De quand date l'appel à la résistance du général de Gaulle ?",
+      "reponses": [
+        "Du 18 juin 1940",
+        "Du 11 novembre 1918",
+        "Du 8 mai 1945",
+        "Du 14 juillet 1789"
+      ],
+      "bonne": 0,
+      "explication": "Depuis Londres, il appelle à poursuivre le combat après la défaite de juin 1940.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H06",
+      "theme": "H",
+      "enonce": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+      "reponses": [
+        "Pour transmettre la mémoire du génocide et lutter contre le racisme et l'antisémitisme",
+        "Pour former les élèves à l'histoire militaire selon les règles applicables",
+        "Parce que c'est une option facultative dans le cadre concerné",
+        "Pour préparer un examen d'histoire dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'enseignement de la Shoah participe de l'éducation civique et de la prévention de la haine.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H07",
+      "theme": "H",
+      "enonce": "Quel pays a été colonisé par la France ?",
+      "reponses": [
+        "L'Algérie",
+        "Le Japon",
+        "Le Brésil",
+        "La Russie"
+      ],
+      "bonne": 0,
+      "explication": "L'empire colonial français comprenait de nombreux territoires en Afrique, en Asie et dans les Caraïbes.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H08",
+      "theme": "H",
+      "enonce": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+      "reponses": [
+        "Depuis 1962",
+        "Depuis 1789",
+        "Depuis 1945",
+        "Depuis 2000"
+      ],
+      "bonne": 0,
+      "explication": "Le référendum de 1962 instaure l'élection au suffrage universel direct ; la première a lieu en 1965.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H09",
+      "theme": "H",
+      "enonce": "Quelle est la première étape de la construction européenne en 1951 ?",
+      "reponses": [
+        "La Communauté européenne du charbon et de l'acier (CECA)",
+        "Le traité de Maastricht selon les règles applicables",
+        "L'espace Schengen dans le cadre concerné",
+        "La création de l'euro dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La CECA, née du traité de Paris de 1951, réunit six pays autour du charbon et de l'acier pour rendre la guerre impossible.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H10",
+      "theme": "H",
+      "enonce": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+      "reponses": [
+        "François Mitterrand",
+        "Charles de Gaulle",
+        "Jacques Chirac",
+        "Georges Pompidou"
+      ],
+      "bonne": 0,
+      "explication": "L'abolition de 1981 a été portée par le garde des Sceaux Robert Badinter.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H11",
+      "theme": "H",
+      "enonce": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?",
+      "reponses": [
+        "La République",
+        "L'Empire",
+        "La monarchie absolue",
+        "La Restauration"
+      ],
+      "bonne": 0,
+      "explication": "La Première République est proclamée le 22 septembre 1792.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H12",
+      "theme": "H",
+      "enonce": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+      "reponses": [
+        "Jean Moulin",
+        "Louis XIV",
+        "Émile Zola",
+        "Gustave Eiffel"
+      ],
+      "bonne": 0,
+      "explication": "Jean Moulin a unifié les mouvements de la Résistance. Il repose au Panthéon.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H13",
+      "theme": "H",
+      "enonce": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+      "reponses": [
+        "Elles obtiennent le droit de vote et d'éligibilité",
+        "Elles obtiennent le droit de travailler selon les règles applicables",
+        "Elles obtiennent le droit d'étudier dans le cadre concerné",
+        "Elles obtiennent le droit de divorcer dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'ordonnance du 21 avril 1944 leur accorde le droit de vote ; elles votent pour la première fois en 1945.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H14",
+      "theme": "H",
+      "enonce": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+      "reponses": [
+        "L'Organisation des Nations unies (ONU)",
+        "L'Union européenne selon les règles applicables",
+        "L'OTAN dans le cadre concerné",
+        "La Société des Nations dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La France est membre permanent du Conseil de sécurité de l'ONU.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H15",
+      "theme": "H",
+      "enonce": "Quelle peine a été supprimée en 1981 ?",
+      "reponses": [
+        "La peine de mort",
+        "La prison à perpétuité",
+        "Le travail forcé",
+        "L'amende pénale"
+      ],
+      "bonne": 0,
+      "explication": "La loi du 9 octobre 1981 abolit la peine de mort en France.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H16",
+      "theme": "H",
+      "enonce": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+      "reponses": [
+        "2002",
+        "1992",
+        "1999",
+        "2010"
+      ],
+      "bonne": 0,
+      "explication": "Les pièces et billets en euros circulent depuis le 1er janvier 2002, l'euro existant comme monnaie scripturale depuis 1999.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H17",
+      "theme": "H",
+      "enonce": "En quelle année a commencé la Première Guerre mondiale ?",
+      "reponses": [
+        "1914",
+        "1918",
+        "1939",
+        "1870"
+      ],
+      "bonne": 0,
+      "explication": "Elle s'achève par l'armistice du 11 novembre 1918, jour férié en France.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H18",
+      "theme": "H",
+      "enonce": "Où a eu lieu le débarquement en 1944 ?",
+      "reponses": [
+        "En Normandie",
+        "En Bretagne",
+        "En Corse",
+        "Dans le Nord"
+      ],
+      "bonne": 0,
+      "explication": "Le débarquement du 6 juin 1944 a été suivi d'un second débarquement en Provence en août 1944.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H19",
+      "theme": "H",
+      "enonce": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+      "reponses": [
+        "L'Afrique",
+        "L'Amérique du Nord",
+        "L'Océanie",
+        "L'Europe"
+      ],
+      "bonne": 0,
+      "explication": "La plupart des colonies françaises d'Afrique accèdent à l'indépendance autour de 1960.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H20",
+      "theme": "H",
+      "enonce": "Que fête-t-on le 8 mai ?",
+      "reponses": [
+        "La victoire des Alliés et la fin de la Seconde Guerre mondiale en Europe",
+        "La fête nationale dans le cadre prévu par la loi selon les règles applicables",
+        "L'armistice de 1918 dans le cadre prévu par la loi dans le cadre concerné",
+        "La fête du travail dans le cadre prévu par la loi dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le 8 mai 1945 marque la capitulation de l'Allemagne nazie. C'est un jour férié.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H21",
+      "theme": "H",
+      "enonce": "Quelle mer ou océan borde la France métropolitaine ?",
+      "reponses": [
+        "L'océan Atlantique",
+        "L'océan Pacifique",
+        "La mer Rouge",
+        "L'océan Arctique"
+      ],
+      "bonne": 0,
+      "explication": "La France métropolitaine est bordée par la mer du Nord, la Manche, l'océan Atlantique et la mer Méditerranée.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H22",
+      "theme": "H",
+      "enonce": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+      "reponses": [
+        "L'Espagne",
+        "Le Portugal",
+        "L'Irlande",
+        "La Norvège"
+      ],
+      "bonne": 0,
+      "explication": "La France métropolitaine a des frontières avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, Monaco, l'Espagne et Andorre.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H23",
+      "theme": "H",
+      "enonce": "Quelle ville française est un port maritime ?",
+      "reponses": [
+        "Marseille",
+        "Toulouse",
+        "Lyon",
+        "Clermont-Ferrand"
+      ],
+      "bonne": 0,
+      "explication": "Marseille, Le Havre et Dunkerque comptent parmi les grands ports français.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H24",
+      "theme": "H",
+      "enonce": "Quelle mer se situe entre la France et l'Angleterre ?",
+      "reponses": [
+        "La Manche",
+        "La mer Baltique",
+        "La mer Noire",
+        "La mer Méditerranée"
+      ],
+      "bonne": 0,
+      "explication": "Un tunnel ferroviaire relie les deux rives depuis 1994.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H25",
+      "theme": "H",
+      "enonce": "Qu'est ce que la France d'outre-mer ?",
+      "reponses": [
+        "L'ensemble des territoires français situés hors d'Europe",
+        "Les anciennes colonies devenues indépendantes selon les règles applicables",
+        "Les ambassades françaises à l'étranger dans le cadre concerné",
+        "Les régions frontalières dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Elle comprend notamment la Guadeloupe, la Martinique, la Guyane, La Réunion et Mayotte, qui sont des départements et régions d'outre-mer.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H26",
+      "theme": "H",
+      "enonce": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?",
+      "reponses": [
+        "Les Pyrénées",
+        "Les Alpes",
+        "Le Jura",
+        "Les Vosges"
+      ],
+      "bonne": 0,
+      "explication": "Les Alpes marquent la frontière avec l'Italie et la Suisse.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H27",
+      "theme": "H",
+      "enonce": "Quelle île française se trouve dans l'océan Indien ?",
+      "reponses": [
+        "La Réunion",
+        "La Corse",
+        "La Guadeloupe",
+        "La Martinique"
+      ],
+      "bonne": 0,
+      "explication": "La Réunion et Mayotte sont situées dans l'océan Indien ; ce sont des départements et régions d'outre-mer.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H28",
+      "theme": "H",
+      "enonce": "Quelle est la population approximative de la France en 2025 ?",
+      "reponses": [
+        "Environ 68 millions d'habitants",
+        "Environ 40 millions d'habitants",
+        "Environ 90 millions d'habitants",
+        "Environ 120 millions d'habitants"
+      ],
+      "bonne": 0,
+      "explication": "Outre-mer compris, la population française avoisine les 68 millions d'habitants.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H29",
+      "theme": "H",
+      "enonce": "Quel fleuve traverse Paris ?",
+      "reponses": [
+        "La Seine",
+        "La Loire",
+        "Le Rhône",
+        "La Garonne"
+      ],
+      "bonne": 0,
+      "explication": "Les berges de la Seine à Paris sont inscrites au patrimoine mondial de l'UNESCO.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H30",
+      "theme": "H",
+      "enonce": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+      "reponses": [
+        "La Belgique",
+        "Le Royaume-Uni",
+        "Le Danemark",
+        "La Grèce"
+      ],
+      "bonne": 0,
+      "explication": "La Belgique borde la France au nord ; le Royaume-Uni en est séparé par la Manche.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H31",
+      "theme": "H",
+      "enonce": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+      "reponses": [
+        "L'Allemagne",
+        "L'Espagne",
+        "L'Italie",
+        "Le Portugal"
+      ],
+      "bonne": 0,
+      "explication": "Au nord-est se trouvent le Luxembourg et l'Allemagne, séparée de la France par le Rhin sur une partie du tracé.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H32",
+      "theme": "H",
+      "enonce": "Où se trouvent les principales activités économiques en France ?",
+      "reponses": [
+        "Dans les grandes aires urbaines et les métropoles, notamment en Île-de-France",
+        "Uniquement dans les zones rurales selon les règles applicables",
+        "Uniquement dans les territoires d'outre-mer dans le cadre concerné",
+        "Uniquement dans les régions montagneuses dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les principales activités économiques se concentrent largement dans les grandes métropoles et aires urbaines.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H33",
+      "theme": "H",
+      "enonce": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+      "reponses": [
+        "La France",
+        "La Belgique",
+        "Le Portugal",
+        "La Suède"
+      ],
+      "bonne": 0,
+      "explication": "La France est la première destination touristique mondiale en nombre de visiteurs étrangers.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H34",
+      "theme": "H",
+      "enonce": "Où habite la majorité des Français ?",
+      "reponses": [
+        "En ville",
+        "À la campagne",
+        "En montagne",
+        "En outre-mer"
+      ],
+      "bonne": 0,
+      "explication": "Plus de 8 Français sur 10 vivent dans une aire urbaine.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H35",
+      "theme": "H",
+      "enonce": "Quelle région est la plus peuplée ?",
+      "reponses": [
+        "L'Île-de-France",
+        "La Bretagne selon les règles applicables",
+        "La Corse dans le cadre concerné",
+        "La Normandie dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'Île-de-France compte environ 12 millions d'habitants.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H36",
+      "theme": "H",
+      "enonce": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+      "reponses": [
+        "Lyon",
+        "Colmar",
+        "Vannes",
+        "Auxerre"
+      ],
+      "bonne": 0,
+      "explication": "Paris, Marseille, Lyon, Toulouse et Nice figurent parmi les plus grandes villes françaises.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H37",
+      "theme": "H",
+      "enonce": "Lequel de ces départements de France est le plus touristique ?",
+      "reponses": [
+        "Paris et sa région figurent parmi les principaux territoires touristiques de France",
+        "La Corse est le seul département touristique selon les règles applicables",
+        "Aucun territoire français n'est touristique dans le cadre concerné",
+        "Le tourisme est uniquement concentré à Marseille dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le tourisme est réparti dans de nombreux territoires : Île-de-France, littoraux, Alpes, Provence, etc.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H38",
+      "theme": "H",
+      "enonce": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+      "reponses": [
+        "Lors des Journées européennes du patrimoine",
+        "Uniquement le 1er janvier",
+        "Jamais, l'entrée est toujours payante",
+        "Uniquement pour les groupes scolaires"
+      ],
+      "bonne": 0,
+      "explication": "De nombreux musées nationaux sont aussi gratuits le premier dimanche du mois et pour les moins de 26 ans résidant dans l'Union européenne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H39",
+      "theme": "H",
+      "enonce": "Combien de personnes parlent français dans le monde ?",
+      "reponses": [
+        "Plus de 300 millions",
+        "Environ 50 millions",
+        "Environ 1 milliard",
+        "Environ 20 millions"
+      ],
+      "bonne": 0,
+      "explication": "Le français est parlé sur les cinq continents et est langue officielle dans une trentaine d'États.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H40",
+      "theme": "H",
+      "enonce": "Qui était Marguerite Yourcenar ?",
+      "reponses": [
+        "Une écrivaine, première femme élue à l'Académie française",
+        "Une chanteuse d'opéra selon les règles applicables",
+        "Une résistante fusillée en 1943 dans le cadre concerné",
+        "Une peintre impressionniste dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Élue en 1980, elle est notamment l'auteure des Mémoires d'Hadrien.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H41",
+      "theme": "H",
+      "enonce": "Quel peintre est français ?",
+      "reponses": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Rembrandt"
+      ],
+      "bonne": 0,
+      "explication": "Claude Monet est l'une des grandes figures de l'impressionnisme, mouvement né en France.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H42",
+      "theme": "H",
+      "enonce": "Quel musée est situé à Paris ?",
+      "reponses": [
+        "Le musée du Louvre",
+        "Le musée du Prado",
+        "La galerie des Offices",
+        "Le British Museum"
+      ],
+      "bonne": 0,
+      "explication": "Le Louvre est le musée le plus visité au monde ; il abrite notamment La Joconde.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H43",
+      "theme": "H",
+      "enonce": "Qui était Auguste Rodin ?",
+      "reponses": [
+        "Un sculpteur français",
+        "Un compositeur",
+        "Un architecte de cathédrales",
+        "Un homme politique"
+      ],
+      "bonne": 0,
+      "explication": "On lui doit Le Penseur. Un musée lui est consacré à Paris.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H44",
+      "theme": "H",
+      "enonce": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+      "reponses": [
+        "Parmi les langues les plus parlées au monde, notamment comme langue officielle dans de nombreux pays",
+        "Elle est parlée uniquement en France selon les règles applicables",
+        "Elle est la langue officielle d'un seul pays dans le cadre concerné",
+        "Elle est parlée uniquement en Europe dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le français est une langue internationale parlée sur les cinq continents.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H45",
+      "theme": "H",
+      "enonce": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+      "reponses": [
+        "Notre-Dame de Paris",
+        "La cathédrale de Reims",
+        "La cathédrale de Chartres",
+        "La cathédrale de Strasbourg"
+      ],
+      "bonne": 0,
+      "explication": "L'incendie du 15 avril 2019 a détruit la flèche et la charpente. La cathédrale a rouvert après restauration.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H46",
+      "theme": "H",
+      "enonce": "Qui était une écrivaine française célèbre ?",
+      "reponses": [
+        "Simone de Beauvoir",
+        "Agatha Christie",
+        "Jane Austen",
+        "Virginia Woolf"
+      ],
+      "bonne": 0,
+      "explication": "Simone de Beauvoir est notamment l'auteure du Deuxième Sexe, ouvrage majeur du féminisme.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H47",
+      "theme": "H",
+      "enonce": "Qui était un célèbre musicien français ?",
+      "reponses": [
+        "Claude Debussy",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach"
+      ],
+      "bonne": 0,
+      "explication": "Claude Debussy est l'un des grands compositeurs français, auteur de Clair de lune.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H48",
+      "theme": "H",
+      "enonce": "Qui était Auguste Renoir ?",
+      "reponses": [
+        "Un peintre impressionniste français",
+        "Un sculpteur italien selon les règles applicables",
+        "Un écrivain du XVIIIe siècle dans le cadre concerné",
+        "Un architecte dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Renoir fait partie du mouvement impressionniste, aux côtés de Monet et Degas.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "H49",
+      "theme": "H",
+      "enonce": "Quelle fête est française ?",
+      "reponses": [
+        "Le 14 juillet",
+        "Thanksgiving",
+        "Halloween",
+        "Le Nouvel An chinois"
+      ],
+      "bonne": 0,
+      "explication": "Le 14 juillet est la fête nationale depuis 1880 : elle commémore la prise de la Bastille et la Fête de la Fédération.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V01",
+      "theme": "V",
+      "enonce": "Quel mariage est reconnu par l'État ?",
+      "reponses": [
+        "Le mariage civil célébré en mairie",
+        "Le mariage religieux uniquement",
+        "Le mariage célébré à domicile",
+        "Le mariage coutumier"
+      ],
+      "bonne": 0,
+      "explication": "Seul le mariage civil produit des effets juridiques. Une cérémonie religieuse ne peut avoir lieu qu'après le mariage civil.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V02",
+      "theme": "V",
+      "enonce": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "reponses": [
+        "La mairie",
+        "La préfecture",
+        "Le rectorat",
+        "Le tribunal"
+      ],
+      "bonne": 0,
+      "explication": "La mairie enregistre l'inscription et attribue l'école du secteur ; l'admission est ensuite finalisée auprès du directeur.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V03",
+      "theme": "V",
+      "enonce": "En cas de divorce, qui exerce l'autorité parentale ?",
+      "reponses": [
+        "Les deux parents, en principe conjointement",
+        "La mère seule dans le cadre prévu par la loi",
+        "Le père seul dans le cadre prévu par la loi",
+        "Le juge dans le cadre prévu par la loi"
+      ],
+      "bonne": 0,
+      "explication": "L'autorité parentale reste conjointe après la séparation, sauf décision contraire du juge dans l'intérêt de l'enfant.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V04",
+      "theme": "V",
+      "enonce": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "reponses": [
+        "L'aide juridictionnelle",
+        "L'aide au logement",
+        "La prime d'activité",
+        "L'allocation de rentrée scolaire"
+      ],
+      "bonne": 0,
+      "explication": "Selon les ressources, l'État prend en charge tout ou partie des frais d'avocat et de procédure.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V05",
+      "theme": "V",
+      "enonce": "Où faut-il déclarer la naissance d'un enfant ?",
+      "reponses": [
+        "À la mairie du lieu de naissance",
+        "À la préfecture",
+        "Au tribunal judiciaire",
+        "À la caisse d'allocations familiales"
+      ],
+      "bonne": 0,
+      "explication": "La déclaration doit intervenir dans les cinq jours suivant la naissance.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V06",
+      "theme": "V",
+      "enonce": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+      "reponses": [
+        "Avoir au moins 18 ans pour le permis B",
+        "Être propriétaire d'un véhicule selon les règles applicables",
+        "Avoir la nationalité française dans le cadre concerné",
+        "Être marié dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La conduite accompagnée peut débuter dès 15 ans, mais la conduite seule suppose d'être titulaire du permis.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V07",
+      "theme": "V",
+      "enonce": "Un bail locatif est valide s'il est :",
+      "reponses": [
+        "écrit et signé par le locataire et le propriétaire",
+        "conclu oralement selon les règles applicables",
+        "signé uniquement par le propriétaire dans le cadre concerné",
+        "validé par la mairie dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le bail écrit protège les deux parties et précise le loyer, la durée et le dépôt de garantie.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V08",
+      "theme": "V",
+      "enonce": "Où peut-on déposer un lave-vaisselle cassé ?",
+      "reponses": [
+        "En déchetterie",
+        "Sur le trottoir",
+        "Dans le bac de tri jaune",
+        "Dans un conteneur à verre"
+      ],
+      "bonne": 0,
+      "explication": "Les gros appareils sont aussi repris par le vendeur lors de l'achat d'un équipement neuf.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V09",
+      "theme": "V",
+      "enonce": "Quel numéro d'urgence permet d'appeler la police ?",
+      "reponses": [
+        "Le 17",
+        "Le 15",
+        "Le 18",
+        "Le 119"
+      ],
+      "bonne": 0,
+      "explication": "Le 15 joint le SAMU, le 18 les pompiers, le 112 les urgences dans toute l'Union européenne.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V10",
+      "theme": "V",
+      "enonce": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+      "reponses": [
+        "Toute personne résidant en France de manière stable peut être affiliée à l'Assurance maladie",
+        "Les soins sont réservés aux personnes de nationalité française selon les règles applicables",
+        "Il faut payer une cotisation privée obligatoire dans le cadre concerné",
+        "L'hôpital peut refuser une urgence dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La protection universelle maladie couvre les résidents stables et réguliers. Les urgences vitales sont toujours prises en charge.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V11",
+      "theme": "V",
+      "enonce": "À qui est accessible la contraception ?",
+      "reponses": [
+        "À toute personne qui le souhaite, y compris les mineurs",
+        "Aux femmes mariées uniquement selon les règles applicables",
+        "Aux personnes majeures uniquement dans le cadre concerné",
+        "Sur autorisation du conjoint dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La contraception est gratuite et confidentielle pour les moins de 26 ans.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V12",
+      "theme": "V",
+      "enonce": "Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?",
+      "reponses": [
+        "Le secret médical : les informations de santé ne peuvent être divulguées",
+        "L'obligation d'informer la famille selon les règles applicables",
+        "Le droit de l'employeur de connaître le dossier médical dans le cadre concerné",
+        "La publication des dossiers à l'hôpital dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le secret médical s'impose à tous les professionnels de santé ; sa violation est sanctionnée.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V13",
+      "theme": "V",
+      "enonce": "L'inscription à l'Assurance maladie est :",
+      "reponses": [
+        "obligatoire pour toute personne résidant en France de façon stable",
+        "facultative dans le cadre prévu par la loi selon les règles applicables",
+        "réservée aux salariés dans le cadre prévu par la loi dans le cadre concerné",
+        "réservée aux Français dans le cadre prévu par la loi dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'affiliation ouvre droit au remboursement des soins et à la carte Vitale.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V14",
+      "theme": "V",
+      "enonce": "Qui peut demander un congé parental d'éducation ?",
+      "reponses": [
+        "Le père comme la mère",
+        "La mère uniquement",
+        "Le père uniquement",
+        "Seuls les fonctionnaires"
+      ],
+      "bonne": 0,
+      "explication": "Le congé parental est ouvert aux deux parents salariés, sous condition d'ancienneté.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V15",
+      "theme": "V",
+      "enonce": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+      "reponses": [
+        "Les litiges entre un salarié et son employeur",
+        "Les divorces selon les règles applicables",
+        "Les litiges entre voisins dans le cadre concerné",
+        "Les infractions pénales dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La saisine est gratuite et le salarié peut être assisté d'un défenseur syndical.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V16",
+      "theme": "V",
+      "enonce": "Travailler sans être déclaré est :",
+      "reponses": [
+        "illégal, pour l'employeur comme pour le salarié",
+        "autorisé pour les petits travaux selon les règles applicables",
+        "toléré pendant la période d'essai dans le cadre concerné",
+        "autorisé si le salaire est faible dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le travail dissimulé prive le salarié de droits (chômage, retraite, accident du travail) et constitue un délit.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V17",
+      "theme": "V",
+      "enonce": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :",
+      "reponses": [
+        "les heures supplémentaires doivent être payées ou récupérées",
+        "le salarié doit accepter sans contrepartie selon les règles applicables",
+        "c'est interdit en toutes circonstances dans le cadre concerné",
+        "le salarié doit démissionner dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les heures supplémentaires donnent lieu à majoration de salaire ou à un repos compensateur, dans la limite des durées maximales de travail.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V18",
+      "theme": "V",
+      "enonce": "Quelle est la mission de France Travail ?",
+      "reponses": [
+        "Accompagner les demandeurs d'emploi et verser les allocations chômage",
+        "Délivrer les titres de séjour selon les règles applicables",
+        "Fixer le montant du SMIC dans le cadre concerné",
+        "Gérer les retraites dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "France Travail, ex-Pôle emploi, aide à la recherche d'emploi, à la formation et indemnise les demandeurs d'emploi.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V19",
+      "theme": "V",
+      "enonce": "Dans une entreprise, le droit syndical permet :",
+      "reponses": [
+        "d'adhérer au syndicat de son choix ou de n'adhérer à aucun",
+        "d'adhérer obligatoirement à un syndicat",
+        "d'adhérer uniquement avec l'accord de l'employeur",
+        "de créer un syndicat réservé aux cadres"
+      ],
+      "bonne": 0,
+      "explication": "La liberté syndicale est garantie ; toute discrimination fondée sur l'activité syndicale est interdite.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V20",
+      "theme": "V",
+      "enonce": "Dans une entreprise, le droit de grève autorise :",
+      "reponses": [
+        "les salariés à cesser le travail pour des revendications professionnelles",
+        "à empêcher les non-grévistes de travailler selon les règles applicables",
+        "à dégrader le matériel de l'entreprise dans le cadre concerné",
+        "à cesser le travail pour convenance personnelle dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La grève est un droit constitutionnel, mais elle ne permet pas de bloquer le travail des autres salariés.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V21",
+      "theme": "V",
+      "enonce": "Quelles sont les conditions pour toucher les allocations chômage ?",
+      "reponses": [
+        "Avoir travaillé une durée minimale, être inscrit et rechercher un emploi",
+        "Il suffit d'être sans emploi selon les règles applicables",
+        "Il faut avoir démissionné dans le cadre concerné",
+        "Il faut être de nationalité française dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "La perte d'emploi doit en principe être involontaire, et le demandeur doit être inscrit à France Travail.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V22",
+      "theme": "V",
+      "enonce": "Qu'est-ce que l'école maternelle ?",
+      "reponses": [
+        "La première étape de la scolarité, à partir de 3 ans",
+        "Un mode de garde payant selon les règles applicables",
+        "Une école réservée aux filles dans le cadre concerné",
+        "Une école privée dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "L'école maternelle est gratuite dans le public et l'instruction y est obligatoire dès 3 ans.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V23",
+      "theme": "V",
+      "enonce": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "reponses": [
+        "Le diplôme national du brevet",
+        "Le baccalauréat selon les règles applicables",
+        "Le CAP dans le cadre concerné",
+        "La licence dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le brevet se passe en classe de troisième ; le baccalauréat clôt le lycée.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V24",
+      "theme": "V",
+      "enonce": "Les parents d'élève ont le droit de :",
+      "reponses": [
+        "être informés et élire des représentants au conseil d'école",
+        "choisir les programmes scolaires selon les règles applicables",
+        "assister à tous les cours dans le cadre concerné",
+        "refuser une matière obligatoire dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les parents participent à la vie de l'établissement par leurs représentants élus.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V25",
+      "theme": "V",
+      "enonce": "Qui peut manger à la cantine scolaire ?",
+      "reponses": [
+        "Tous les élèves, sans discrimination",
+        "Uniquement les élèves dont les deux parents travaillent",
+        "Uniquement les élèves français",
+        "Uniquement les élèves boursiers"
+      ],
+      "bonne": 0,
+      "explication": "L'accès au service de restauration scolaire ne peut être refusé pour un motif discriminatoire ; le tarif dépend souvent des ressources.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V26",
+      "theme": "V",
+      "enonce": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "reponses": [
+        "3 ans",
+        "6 ans",
+        "5 ans",
+        "2 ans"
+      ],
+      "bonne": 0,
+      "explication": "L'instruction est obligatoire de 3 à 16 ans pour tous les enfants résidant en France, quelle que soit leur nationalité.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V27",
+      "theme": "V",
+      "enonce": "Quel est l'âge de la majorité ?",
+      "reponses": [
+        "18 ans",
+        "16 ans",
+        "21 ans",
+        "20 ans"
+      ],
+      "bonne": 0,
+      "explication": "À 18 ans, une personne devient juridiquement responsable et peut voter.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V28",
+      "theme": "V",
+      "enonce": "À l'école, il est interdit aux parents de :",
+      "reponses": [
+        "De manquer de respect aux enseignants ou de perturber volontairement les cours",
+        "De rencontrer les enseignants selon les règles applicables",
+        "D'élire des représentants de parents dans le cadre concerné",
+        "De demander des informations sur la scolarité de leur enfant dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Les parents doivent respecter les personnels et le fonctionnement de l'établissement.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V29",
+      "theme": "V",
+      "enonce": "Quel motif d'absence est accepté par l'école ?",
+      "reponses": [
+        "La maladie de l'enfant",
+        "Les courses en famille",
+        "Un voyage pendant la période scolaire",
+        "La fatigue après le week-end"
+      ],
+      "bonne": 0,
+      "explication": "Les absences doivent être justifiées auprès de l'établissement ; les absences répétées non justifiées peuvent être signalées.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V30",
+      "theme": "V",
+      "enonce": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+      "reponses": [
+        "Une amende peut être prononcée en cas de manquement à l'obligation d'instruction",
+        "Aucune sanction n'existe selon les règles applicables",
+        "La perte automatique de la nationalité dans le cadre concerné",
+        "Une peine automatique de prison dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Le non-respect de l'obligation d'instruction peut entraîner des sanctions prévues par la loi.",
+      "statut": "complete_non_officielle",
+      "corrige_source": "proposition pédagogique — non officielle",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V31",
+      "theme": "V",
+      "enonce": "Quand ont lieu les vacances scolaires de Noël ?",
+      "reponses": [
+        "Fin décembre et début janvier",
+        "En novembre selon les règles applicables",
+        "En février dans le cadre concerné",
+        "En octobre dans ce cas"
+      ],
+      "bonne": 0,
+      "explication": "Elles durent deux semaines et concernent toutes les zones en même temps.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    },
+    {
+      "id": "V32",
+      "theme": "V",
+      "enonce": "À l'école, un enfant en situation de handicap :",
+      "reponses": [
+        "a le droit d'être scolarisé, avec des aménagements adaptés",
+        "doit être scolarisé uniquement en établissement spécialisé",
+        "ne peut pas être scolarisé",
+        "est accueilli seulement s'il y a de la place"
+      ],
+      "bonne": 0,
+      "explication": "L'école inclusive est un droit : accompagnant d'élève en situation de handicap, matériel adapté, projet personnalisé de scolarisation.",
+      "statut": "complete",
+      "origine": "officielle",
+      "reponse_position_originale": 0,
+      "controle_qualite": {
+        "position_bonne_reponse_a_permuter": true,
+        "revue_formelle": true
+      }
+    }
+  ],
+  "situations_entrainement": [
+    {
+      "id": "SV01",
+      "theme": "SITUATION",
+      "enonce": "À la mairie, un agent vous accueille. Vous souhaitez être renseigné mais l'agent ne partage pas votre religion. Que faire ?",
+      "reponses": [
+        "Demander le service normalement : l'agent doit respecter la neutralité du service public",
+        "Demander que l'agent soit remplacé parce que ses convictions sont différentes",
+        "Refuser la démarche tant que l'agent ne partage pas vos convictions",
+        "Demander à l'agent d'indiquer publiquement sa religion avant de traiter votre demande"
+      ],
+      "bonne": 0,
+      "explication": "Dans le service public, l'agent doit rester neutre et traiter les usagers sans discrimination. L'usager n'a pas à partager les convictions de l'agent pour bénéficier du service.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV02",
+      "theme": "SITUATION",
+      "enonce": "Vous voyez une personne victime d'un malaise dans la rue. Quelle est la première attitude adaptée ?",
+      "reponses": [
+        "Alerter les secours et protéger la personne sans se mettre en danger",
+        "Rester auprès de la personne sans prévenir les secours si elle semble consciente",
+        "Chercher d'abord à filmer la situation pour pouvoir la montrer ensuite",
+        "Quitter les lieux immédiatement sans vérifier si une aide peut être apportée"
+      ],
+      "bonne": 0,
+      "explication": "Face à un malaise, la priorité est de protéger la personne, d'alerter les secours et de ne pas se mettre soi-même en danger.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV03",
+      "theme": "SITUATION",
+      "enonce": "Un voisin tient des propos discriminatoires publiquement contre une personne en raison de son origine. Quelle attitude est correcte ?",
+      "reponses": [
+        "Ne pas participer aux propos et, si nécessaire, signaler les faits par les voies appropriées",
+        "Répondre aux propos par une insulte afin de défendre la personne visée",
+        "Diffuser les propos sur les réseaux sociaux pour dénoncer leur auteur",
+        "Ne rien faire et considérer qu'un propos discriminatoire relève toujours de la seule opinion personnelle"
+      ],
+      "bonne": 0,
+      "explication": "Les propos discriminatoires peuvent être sanctionnés par la loi. Il faut éviter d'y participer et, lorsque les faits le justifient, utiliser les voies de signalement ou de recours appropriées.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV04",
+      "theme": "SITUATION",
+      "enonce": "Votre enfant est inscrit dans une école publique. Vous n'êtes pas d'accord avec un enseignement obligatoire pour un motif religieux. Que faire ?",
+      "reponses": [
+        "Respecter l'obligation scolaire et utiliser les voies de dialogue ou de recours prévues",
+        "Retirer l'enfant de l'enseignement concerné sans en informer l'établissement",
+        "Demander que l'enseignement soit supprimé uniquement pour votre enfant",
+        "Refuser l'enseignement tant qu'une solution correspondant à vos convictions n'est pas proposée"
+      ],
+      "bonne": 0,
+      "explication": "Les enseignements obligatoires s'appliquent à tous les élèves. Un désaccord peut être exprimé par le dialogue et, si nécessaire, par les voies de recours prévues.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV05",
+      "theme": "SITUATION",
+      "enonce": "Vous êtes salarié et votre employeur vous demande de travailler des heures supplémentaires. Quelle attitude est adaptée ?",
+      "reponses": [
+        "Vérifier les règles applicables et les conditions de rémunération ou de récupération",
+        "Accepter systématiquement les heures supplémentaires sans demander comment elles sont comptabilisées",
+        "Refuser systématiquement toute heure supplémentaire, quelles que soient les règles applicables",
+        "Quitter immédiatement l'entreprise si l'employeur demande des heures supplémentaires"
+      ],
+      "bonne": 0,
+      "explication": "Les heures supplémentaires sont encadrées par le droit du travail et donnent lieu, selon les règles applicables, à rémunération majorée ou à repos compensateur.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV06",
+      "theme": "SITUATION",
+      "enonce": "Vous êtes témoin d'une violence grave. Que faire ?",
+      "reponses": [
+        "Alerter les secours ou la police, sans vous mettre en danger",
+        "Intervenir physiquement immédiatement, quelle que soit la situation",
+        "Filmer la scène afin de disposer d'une preuve avant d'alerter les secours",
+        "Ne pas intervenir et attendre qu'une autre personne prenne en charge la situation"
+      ],
+      "bonne": 0,
+      "explication": "En présence d'une violence grave, il faut alerter les services compétents et éviter de se mettre soi-même en danger. L'intervention physique n'est pas toujours appropriée.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV07",
+      "theme": "SITUATION",
+      "enonce": "Vous louez un logement et votre propriétaire refuse de vous louer en raison de votre origine. Que faire ?",
+      "reponses": [
+        "Conserver les éléments utiles et utiliser les voies de recours contre une discrimination",
+        "Accepter la décision du propriétaire puisqu'il est libre de choisir son locataire",
+        "Menacer le propriétaire pour obtenir la location du logement",
+        "Diffuser publiquement ses données personnelles pour dénoncer son comportement"
+      ],
+      "bonne": 0,
+      "explication": "Refuser une location en raison de l'origine constitue une discrimination interdite. Il est préférable de conserver les preuves et d'utiliser les voies de recours prévues.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV08",
+      "theme": "SITUATION",
+      "enonce": "Vous souhaitez participer à une manifestation. Quelle règle devez-vous respecter ?",
+      "reponses": [
+        "Respecter les règles de déclaration et les consignes de sécurité applicables",
+        "Considérer qu'une manifestation autorise automatiquement à bloquer toute circulation",
+        "Apporter une arme pour assurer soi-même sa sécurité pendant la manifestation",
+        "Empêcher physiquement les personnes qui ne souhaitent pas participer d'y circuler"
+      ],
+      "bonne": 0,
+      "explication": "Le droit de manifester est une liberté encadrée. Les règles de déclaration et de sécurité doivent être respectées, et la manifestation doit rester pacifique.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV09",
+      "theme": "SITUATION",
+      "enonce": "Vous constatez un danger immédiat sur la route. Quelle action est adaptée ?",
+      "reponses": [
+        "Alerter les services compétents et éviter de vous mettre en danger",
+        "Tenter seul de déplacer les véhicules concernés avant d'alerter les secours",
+        "Prendre une photographie puis attendre de voir si le danger disparaît",
+        "Continuer votre trajet sans signaler le danger aux autres usagers"
+      ],
+      "bonne": 0,
+      "explication": "En cas de danger immédiat, il faut alerter les services compétents et éviter toute intervention qui pourrait vous exposer à un risque.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV10",
+      "theme": "SITUATION",
+      "enonce": "Un agent public vous demande une pièce nécessaire à votre démarche. Vous estimez la demande injustifiée. Que faire ?",
+      "reponses": [
+        "Demander une explication et utiliser les voies de recours plutôt que refuser toute règle",
+        "Refuser immédiatement la démarche sans chercher à connaître le motif de la demande",
+        "Exiger que l'agent abandonne la demande sans possibilité de recours",
+        "Menacer l'agent pour obtenir le traitement immédiat de votre dossier"
+      ],
+      "bonne": 0,
+      "explication": "Si une demande administrative paraît injustifiée, il est possible de demander des explications et d'utiliser les voies de recours prévues plutôt que de s'opposer par la menace ou l'insulte.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV11",
+      "theme": "SITUATION",
+      "enonce": "Vous êtes victime de menaces sur un réseau social. Quelle attitude est adaptée ?",
+      "reponses": [
+        "Conserver les preuves et signaler les faits aux autorités ou services compétents",
+        "Répondre aux menaces par des menaces afin de faire cesser la situation",
+        "Publier les données personnelles de l'auteur pour le dénoncer",
+        "Supprimer immédiatement tous les messages sans conserver d'élément utile"
+      ],
+      "bonne": 0,
+      "explication": "Les menaces en ligne peuvent être sanctionnées. Conserver les éléments utiles permet de signaler les faits et de faciliter les démarches auprès des autorités compétentes.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    },
+    {
+      "id": "SV12",
+      "theme": "SITUATION",
+      "enonce": "Vous souhaitez créer une association avec d'autres personnes. Quelle proposition est correcte ?",
+      "reponses": [
+        "Vous pouvez créer ou rejoindre une association dans le respect de la loi",
+        "Vous devez obtenir l'accord d'une autorité religieuse avant de créer l'association",
+        "La création d'une association est réservée aux personnes de nationalité française",
+        "Toute personne qui rejoint l'association doit obligatoirement y rester"
+      ],
+      "bonne": 0,
+      "explication": "La liberté d'association permet de créer une association ou d'y adhérer librement, dans le respect des règles prévues par la loi.",
+      "statut": "entrainement_non_officiel",
+      "corrige_source": "création pédagogique — non officielle",
+      "controle_qualite": {
+        "distracteurs_revus": true,
+        "explication_individualisee": true,
+        "position_bonne_reponse_a_permuter": true
+      }
+    }
+  ],
+  "revision_banque": {
+    "version": "3.0-relecture-longueur-209",
+    "date": "2026-08-25",
+    "perimetre": {
+      "questions_connaissance": 209,
+      "questions_revisees": 99,
+      "situations_entrainement": 12
+    },
+    "objectifs": [
+      "Relecture des 209 questions de connaissance, et non d'un sous-ensemble",
+      "Réduire les indices de longueur et de formulation",
+      "Éviter qu'une bonne réponse soit systématiquement identifiable parce qu'elle est la plus longue",
+      "Étoffer les distracteurs lorsque cela permet de conserver le fond de la bonne réponse",
+      "Raccourcir uniquement les formulations correctes excessivement longues lorsque le sens est strictement conservé",
+      "Conserver les énoncés officiels et la distinction entre contenu officiel et contenu pédagogique"
+    ],
+    "controle_avant": {
+      "bonne_reponse_plus_longue_ou_egale": 145
+    },
+    "controle_apres": {
+      "bonne_reponse_plus_longue_ou_egale": 91,
+      "bonne_reponse_plus_de_trois_fois_plus_longue": 0,
+      "items_extremes_restants": []
+    },
+    "note": "Les énoncés n'ont pas été réécrits. Les propositions ont été harmonisées de manière conservatrice; aucune information factuelle nouvelle n'a été ajoutée."
+  }
+}

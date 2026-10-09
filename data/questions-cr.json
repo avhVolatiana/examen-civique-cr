@@ -3144,19 +3144,20 @@
       "theme": "H",
       "enonce": "Quelle est la population approximative de la France en 2025 ?",
       "reponses": [
-        "Environ 68 millions d'habitants",
-        "Environ 40 millions d'habitants",
-        "Environ 90 millions d'habitants",
-        "Environ 120 millions d'habitants"
+        "Environ 68,6 millions d'habitants",
+        "Environ 40,6 millions d'habitants",
+        "Environ 58,6 millions d'habitants",
+        "Environ 78,6 millions d'habitants"
       ],
       "bonne": 0,
-      "explication": "Outre-mer compris, la population française avoisine les 68 millions d'habitants.",
+      "explication": "La fiche de référence citée lors de la mise à jour indique une population d'environ 68,6 millions d'habitants au 1er janvier 2025.",
       "statut": "complete",
       "origine": "officielle",
       "reponse_position_originale": 0,
       "controle_qualite": {
         "position_bonne_reponse_a_permuter": true,
-        "revue_formelle": true
+        "revue_formelle": true,
+        "revision_contenu_octobre_2026": true
       }
     },
     {
@@ -3366,19 +3367,20 @@
       "theme": "H",
       "enonce": "Combien de personnes parlent français dans le monde ?",
       "reponses": [
-        "Plus de 300 millions",
-        "Environ 50 millions",
-        "Environ 1 milliard",
-        "Environ 20 millions"
+        "Plus de 396 millions",
+        "Environ 96 millions",
+        "Environ 196 millions",
+        "Plus de 596 millions"
       ],
       "bonne": 0,
-      "explication": "Le français est parlé sur les cinq continents et est langue officielle dans une trentaine d'États.",
+      "explication": "La fiche de référence citée lors de la mise à jour indique que plus de 396 millions de personnes parlent français dans le monde.",
       "statut": "complete",
       "origine": "officielle",
       "reponse_position_originale": 0,
       "controle_qualite": {
         "position_bonne_reponse_a_permuter": true,
-        "revue_formelle": true
+        "revue_formelle": true,
+        "revision_contenu_octobre_2026": true
       }
     },
     {
@@ -3466,20 +3468,21 @@
       "theme": "H",
       "enonce": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
       "reponses": [
-        "Parmi les langues les plus parlées au monde, notamment comme langue officielle dans de nombreux pays",
-        "Elle est parlée uniquement en France selon les règles applicables",
-        "Elle est la langue officielle d'un seul pays dans le cadre concerné",
-        "Elle est parlée uniquement en Europe dans ce cas"
+        "La 4e langue la plus parlée au monde",
+        "La 2e langue la plus parlée au monde",
+        "La 7e langue la plus parlée au monde",
+        "La 10e langue la plus parlée au monde"
       ],
       "bonne": 0,
-      "explication": "Le français est une langue internationale parlée sur les cinq continents.",
+      "explication": "La fiche de référence citée lors de la mise à jour classe le français au 4e rang des langues les plus parlées au monde.",
       "statut": "complete_non_officielle",
       "corrige_source": "proposition pédagogique — non officielle",
       "origine": "officielle",
       "reponse_position_originale": 0,
       "controle_qualite": {
         "position_bonne_reponse_a_permuter": true,
-        "revue_formelle": true
+        "revue_formelle": true,
+        "revision_contenu_octobre_2026": true
       }
     },
     {
@@ -4468,29 +4471,109 @@
     }
   ],
   "revision_banque": {
-    "version": "3.0-relecture-longueur-209",
-    "date": "2026-08-25",
+    "version": "2026-10-revue",
+    "date": "2026-10-09",
     "perimetre": {
-      "questions_connaissance": 209,
-      "questions_revisees": 99,
-      "situations_entrainement": 12
+      "questions_officielles_conservees": 209,
+      "questions_pedagogiques_ajoutees": 6,
+      "questions_officielles_modifiees": [
+        "H28",
+        "H39",
+        "H44"
+      ]
     },
-    "objectifs": [
-      "Relecture des 209 questions de connaissance, et non d'un sous-ensemble",
-      "Réduire les indices de longueur et de formulation",
-      "Éviter qu'une bonne réponse soit systématiquement identifiable parce qu'elle est la plus longue",
-      "Étoffer les distracteurs lorsque cela permet de conserver le fond de la bonne réponse",
-      "Raccourcir uniquement les formulations correctes excessivement longues lorsque le sens est strictement conservé",
-      "Conserver les énoncés officiels et la distinction entre contenu officiel et contenu pédagogique"
-    ],
-    "controle_avant": {
-      "bonne_reponse_plus_longue_ou_egale": 145
+    "note": "Les questions officielles existantes sont conservées. Les questions ajoutées sont regroupées séparément et marquées comme pédagogiques/non officielles. Vérifier les données d'actualité auprès des sources institutionnelles avant un examen."
+  },
+  "questions_pedagogiques": [
+    {
+      "id": "ACTU-2026-01",
+      "theme": "Institutions",
+      "enonce": "Qui est le président de la République française en octobre 2026 ?",
+      "reponses": [
+        "Emmanuel Macron",
+        "Sébastien Lecornu",
+        "Laurent Nuñez",
+        "Gérard Larcher"
+      ],
+      "bonne": 0,
+      "explication": "Question d'actualité à vérifier à l'approche de l'examen.",
+      "origine": "creation_pedagogique",
+      "officielle": false
     },
-    "controle_apres": {
-      "bonne_reponse_plus_longue_ou_egale": 91,
-      "bonne_reponse_plus_de_trois_fois_plus_longue": 0,
-      "items_extremes_restants": []
+    {
+      "id": "ACTU-2026-02",
+      "theme": "Institutions",
+      "enonce": "Qui est le Premier ministre français en octobre 2026 ?",
+      "reponses": [
+        "Sébastien Lecornu",
+        "Emmanuel Macron",
+        "Laurent Nuñez",
+        "Yaël Braun-Pivet"
+      ],
+      "bonne": 0,
+      "explication": "Question d'actualité à vérifier à l'approche de l'examen.",
+      "origine": "creation_pedagogique",
+      "officielle": false
     },
-    "note": "Les énoncés n'ont pas été réécrits. Les propositions ont été harmonisées de manière conservatrice; aucune information factuelle nouvelle n'a été ajoutée."
-  }
+    {
+      "id": "ACTU-2026-03",
+      "theme": "Institutions",
+      "enonce": "Qui est le ministre de l'Intérieur en octobre 2026 ?",
+      "reponses": [
+        "Laurent Nuñez",
+        "Emmanuel Macron",
+        "Sébastien Lecornu",
+        "Gérald Darmanin"
+      ],
+      "bonne": 0,
+      "explication": "Question d'actualité à vérifier à l'approche de l'examen.",
+      "origine": "creation_pedagogique",
+      "officielle": false
+    },
+    {
+      "id": "PED-2026-04",
+      "theme": "Format de l'examen",
+      "enonce": "Quel est le seuil de réussite de l'examen civique CR décrit dans cette banque ?",
+      "reponses": [
+        "32 bonnes réponses sur 40",
+        "30 bonnes réponses sur 40",
+        "35 bonnes réponses sur 40",
+        "36 bonnes réponses sur 40"
+      ],
+      "bonne": 0,
+      "explication": "Le seuil indiqué pour cette simulation CR est de 32 bonnes réponses sur 40.",
+      "origine": "creation_pedagogique",
+      "officielle": false
+    },
+    {
+      "id": "PED-2026-05",
+      "theme": "Format de l'examen",
+      "enonce": "Combien de questions comporte la simulation CR utilisée dans cette application ?",
+      "reponses": [
+        "40 questions",
+        "20 questions",
+        "30 questions",
+        "50 questions"
+      ],
+      "bonne": 0,
+      "explication": "La simulation de l'application est structurée en 40 questions.",
+      "origine": "creation_pedagogique",
+      "officielle": false
+    },
+    {
+      "id": "PED-2026-06",
+      "theme": "Actualité",
+      "enonce": "Quel thème a été désigné Grande cause nationale en France pour 2026 ?",
+      "reponses": [
+        "La santé mentale",
+        "La sécurité routière",
+        "La lecture",
+        "Le logement"
+      ],
+      "bonne": 0,
+      "explication": "Question pédagogique d'actualité ; vérifier l'information sur une source officielle avant l'examen.",
+      "origine": "creation_pedagogique",
+      "officielle": false
+    }
+  ]
 }
